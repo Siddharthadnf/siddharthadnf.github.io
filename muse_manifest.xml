@@ -1,10 +1,10 @@
-<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="siddhartha-dnf.de" resolutions="1x" timestamp="1482149700262">
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="siddhartha-dnf.de" resolutions="1x" timestamp="1482156471394">
   <folder name="assets">
     <file name="microsoft-word-dokument-(neu).pdf" crc="530573387" seo="true" mt="1478339936000"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="4052507572"/>
-    <file name="index.css" crc="4192444244" ref="index"/>
+    <file name="index.css" crc="4020143744" ref="index"/>
     <file name="kontakt.css" crc="171504240" ref="kontakt"/>
     <file name="werwir.css" crc="3831123081" ref="werwir"/>
     <file name="sport.css" crc="4135250265" ref="sport"/>
@@ -71,9 +71,9 @@
     <file name="11187198_835953693151842_3810880885642295957_o-crop-u838.jpg" crc="296764345" ref="wiederaufbau"/>
     <file name="trees507x338.jpg" crc="95092717" seo="true" ref="werwir"/>
   </folder>
-  <file name="index.html" crc="3784883781" seo="true" mt="1482149686552" redirect="true"/>
+  <file name="index.html" crc="4216175172" seo="true" mt="1482149706977" redirect="true"/>
   <file name="kontakt.html" crc="254574064" seo="true" mt="1482149034007" redirect="true"/>
-  <file name="werwir.html" crc="433951134" seo="true" mt="1478277458666" redirect="true"/>
+  <file name="werwir.html" crc="4149426821" seo="true" mt="1482156466695" redirect="true"/>
   <file name="spenden.html" crc="29549328" seo="true" mt="1482149686549" redirect="true"/>
   <file name="jugend.html" crc="500946804" seo="true" mt="1482149686554" redirect="true"/>
   <file name="bildung.html" crc="437017885" seo="true" mt="1482149686547" redirect="true"/>
