@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="siddhartha-dnf.de" resolutions="1x" timestamp="1482178591936">
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="siddhartha-dnf.de" resolutions="1x" timestamp="1482179400598">
   <folder name="phone">
     <folder name="css">
       <file name="impressum1.css" crc="222447617" ref="phone>impressum1"/>
@@ -39,9 +39,9 @@
     <file name="microsoft-word-dokument-(neu).pdf" crc="530573387" seo="true" mt="1478339936000"/>
   </folder>
   <folder name="css">
-    <file name="site_global.css" crc="4052507572"/>
+    <file name="site_global.css" crc="3888461080"/>
     <file name="index.css" crc="348538795" ref="index"/>
-    <file name="kontakt.css" crc="243034685" ref="kontakt"/>
+    <file name="kontakt.css" crc="4258562516" ref="kontakt"/>
     <file name="werwir.css" crc="3831123081" ref="werwir"/>
     <file name="sport.css" crc="4135250265" ref="sport"/>
     <file name="kultur.css" crc="497402234" ref="kultur"/>
@@ -60,11 +60,11 @@
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="4255413929" ref="index:kontakt:werwir:spenden:jugend:bildung:sport:tradition:kultur:austausch:direkthilfe:wiederaufbau:impressum:impressum1:impressum2:aktuelles:phone>index:phone>impressum1:phone>impressum2:phone>aktuelles:phone>kontakt:phone>impressum:phone>werwir:phone>spenden:phone>jugend:phone>bildung:phone>sport:phone>tradition:phone>kultur:phone>austausch:phone>direkthilfe:phone>wiederaufbau"/>
     <file name="museutils.js" crc="183364071" ref="index:kontakt:werwir:spenden:jugend:bildung:sport:tradition:kultur:austausch:direkthilfe:wiederaufbau:impressum:impressum1:impressum2:aktuelles:phone>index:phone>impressum1:phone>impressum2:phone>aktuelles:phone>kontakt:phone>impressum:phone>werwir:phone>spenden:phone>jugend:phone>bildung:phone>sport:phone>tradition:phone>kultur:phone>austausch:phone>direkthilfe:phone>wiederaufbau"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="4004268962" ref="index:spenden:jugend:bildung:sport:tradition:kultur:austausch:direkthilfe:wiederaufbau"/>
-    <file name="webpro.js" crc="3803554875" ref="index:werwir:spenden:jugend:bildung:sport:tradition:kultur:austausch:direkthilfe:wiederaufbau:phone>index"/>
-    <file name="musewpslideshow.js" crc="242596657" ref="index:werwir:spenden:jugend:bildung:sport:tradition:kultur:austausch:direkthilfe:wiederaufbau:phone>index"/>
-    <file name="jquery.museoverlay.js" crc="493285861" ref="index:werwir:spenden:jugend:bildung:sport:tradition:kultur:austausch:direkthilfe:wiederaufbau:phone>index"/>
-    <file name="touchswipe.js" crc="4038331989" ref="index:werwir:spenden:jugend:bildung:sport:tradition:kultur:austausch:direkthilfe:wiederaufbau:phone>index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4004268962" ref="index:spenden:jugend:bildung:sport:tradition:kultur:austausch:direkthilfe:wiederaufbau:kontakt"/>
+    <file name="webpro.js" crc="3803554875" ref="index:werwir:spenden:jugend:bildung:sport:tradition:kultur:austausch:direkthilfe:wiederaufbau:phone>index:kontakt"/>
+    <file name="musewpslideshow.js" crc="242596657" ref="index:werwir:spenden:jugend:bildung:sport:tradition:kultur:austausch:direkthilfe:wiederaufbau:phone>index:kontakt"/>
+    <file name="jquery.museoverlay.js" crc="493285861" ref="index:werwir:spenden:jugend:bildung:sport:tradition:kultur:austausch:direkthilfe:wiederaufbau:phone>index:kontakt"/>
+    <file name="touchswipe.js" crc="4038331989" ref="index:werwir:spenden:jugend:bildung:sport:tradition:kultur:austausch:direkthilfe:wiederaufbau:phone>index:kontakt"/>
     <file name="jquery.watch.js" crc="71412426" ref="index:kontakt:werwir:spenden:jugend:bildung:sport:tradition:kultur:austausch:direkthilfe:wiederaufbau:impressum:impressum1:impressum2:aktuelles:phone>index:phone>impressum1:phone>impressum2:phone>aktuelles:phone>kontakt:phone>impressum:phone>werwir:phone>spenden:phone>jugend:phone>bildung:phone>sport:phone>tradition:phone>kultur:phone>austausch:phone>direkthilfe:phone>wiederaufbau"/>
     <file name="museredirect.js" crc="40941066" ref="index:kontakt:werwir:aktuelles:impressum:impressum1:impressum2"/>
   </folder>
@@ -100,9 +100,17 @@
     <file name="11187198_835953693151842_3810880885642295957_o-crop-u838.jpg" crc="296764345" ref="wiederaufbau"/>
     <file name="trees507x338.jpg" crc="95092717" seo="true" ref="werwir"/>
     <file name="sid_schräg.gif" crc="4114224811" seo="true" ref="phone>index:phone>werwir:phone>kontakt:phone>aktuelles"/>
+    <file name="dsc_0190.jpg" crc="3807887191" ref="kontakt"/>
+    <file name="dsc_0300.jpg" crc="486545181" ref="kontakt"/>
+    <file name="dsc_0346.jpg" crc="161475632" ref="kontakt"/>
+    <file name="dsc_0867.jpg" crc="3900304621" ref="kontakt"/>
+    <file name="dsc_0186.jpg" crc="3989039501" ref="kontakt"/>
+    <file name="dsc_0302.jpg" crc="4227433714" ref="kontakt"/>
+    <file name="dsc_0179.jpg" crc="3938810331" ref="kontakt"/>
+    <file name="dsc_0480.jpg" crc="230473114" ref="kontakt"/>
   </folder>
   <file name="index.html" crc="3878024194" seo="true" mt="1482173017827" redirect="true"/>
-  <file name="kontakt.html" crc="319541654" seo="true" mt="1482173017829" redirect="true"/>
+  <file name="kontakt.html" crc="3776452236" seo="true" mt="1482179393944" redirect="true"/>
   <file name="werwir.html" crc="250813089" seo="true" mt="1482177791627" redirect="true"/>
   <file name="spenden.html" crc="4199166748" seo="true" mt="1482173017839" redirect="true"/>
   <file name="jugend.html" crc="112556344" seo="true" mt="1482173017842" redirect="true"/>
