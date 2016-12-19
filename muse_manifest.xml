@@ -1,0 +1,90 @@
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="siddhartha-dnf.de" resolutions="1x" timestamp="1482149700262">
+  <folder name="assets">
+    <file name="microsoft-word-dokument-(neu).pdf" crc="530573387" seo="true" mt="1478339936000"/>
+  </folder>
+  <folder name="css">
+    <file name="site_global.css" crc="4052507572"/>
+    <file name="index.css" crc="4192444244" ref="index"/>
+    <file name="kontakt.css" crc="171504240" ref="kontakt"/>
+    <file name="werwir.css" crc="3831123081" ref="werwir"/>
+    <file name="sport.css" crc="4135250265" ref="sport"/>
+    <file name="kultur.css" crc="497402234" ref="kultur"/>
+    <file name="austausch.css" crc="169518148" ref="austausch"/>
+    <file name="direkthilfe.css" crc="348739505" ref="direkthilfe"/>
+    <file name="tradition.css" crc="472536517" ref="tradition"/>
+    <file name="jugend.css" crc="3885206516" ref="jugend"/>
+    <file name="bildung.css" crc="374523991" ref="bildung"/>
+    <file name="spenden.css" crc="513951723" ref="spenden"/>
+    <file name="wiederaufbau.css" crc="97964908" ref="wiederaufbau"/>
+    <file name="impressum1.css" crc="4158535190" ref="impressum1"/>
+    <file name="impressum2.css" crc="4091741671" ref="impressum2"/>
+    <file name="impressum.css" crc="391762145" ref="impressum"/>
+    <file name="aktuelles.css" crc="3995002276" ref="aktuelles"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4255413929" ref="index:kontakt:werwir:spenden:jugend:bildung:sport:tradition:kultur:austausch:direkthilfe:wiederaufbau:impressum:impressum1:impressum2:aktuelles"/>
+    <file name="museutils.js" crc="183364071" ref="index:kontakt:werwir:spenden:jugend:bildung:sport:tradition:kultur:austausch:direkthilfe:wiederaufbau:impressum:impressum1:impressum2:aktuelles"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4004268962" ref="index:spenden:jugend:bildung:sport:tradition:kultur:austausch:direkthilfe:wiederaufbau"/>
+    <file name="webpro.js" crc="3803554875" ref="index:kontakt:werwir:spenden:jugend:bildung:sport:tradition:kultur:austausch:direkthilfe:wiederaufbau"/>
+    <file name="musewpslideshow.js" crc="242596657" ref="index:werwir:spenden:jugend:bildung:sport:tradition:kultur:austausch:direkthilfe:wiederaufbau"/>
+    <file name="jquery.museoverlay.js" crc="493285861" ref="index:werwir:spenden:jugend:bildung:sport:tradition:kultur:austausch:direkthilfe:wiederaufbau"/>
+    <file name="touchswipe.js" crc="4038331989" ref="index:werwir:spenden:jugend:bildung:sport:tradition:kultur:austausch:direkthilfe:wiederaufbau"/>
+    <file name="jquery.watch.js" crc="71412426" ref="index:kontakt:werwir:spenden:jugend:bildung:sport:tradition:kultur:austausch:direkthilfe:wiederaufbau:impressum:impressum1:impressum2:aktuelles"/>
+    <file name="form_check.php" crc="277267350" ref="kontakt"/>
+    <file name="form_throttle.php" crc="3908387251" ref="kontakt"/>
+    <file name="form_process.php" crc="24249335" ref="kontakt"/>
+    <file name="form-u288.php" crc="57087400" ref="kontakt"/>
+  </folder>
+  <folder name="images">
+    <file name="sid_schräg-u75-fr.jpg" crc="497952610" ref="index:spenden:jugend:bildung:sport:tradition:kultur:austausch:direkthilfe:wiederaufbau"/>
+    <file name="dsc_0225.jpg" crc="4189707519" seo="true" ref="index"/>
+    <file name="dsc_0254.jpg" crc="447363277" seo="true" ref="index"/>
+    <file name="dsc_0305.jpg" crc="4168474844" seo="true" ref="index"/>
+    <file name="u294-17.png" crc="144444784" ref="kontakt"/>
+    <file name="u294-17-r.png" crc="3955284250" ref="kontakt"/>
+    <file name="u294-17-m.png" crc="4055142045" ref="kontakt"/>
+    <file name="u294-17-fs.png" crc="3778366631" ref="kontakt"/>
+    <file name="road.jpg" crc="4073964829" seo="true" ref="jugend:sport:tradition:kultur:austausch"/>
+    <file name="cactus.jpg" crc="276672004" seo="true" ref="jugend:sport:tradition:kultur:austausch"/>
+    <file name="trees.jpg" crc="279650762" seo="true" ref="jugend:sport:tradition:kultur:austausch"/>
+    <file name="imgp4868.jpg" crc="232690667" seo="true" ref="spenden"/>
+    <file name="blank.gif" crc="4208392903" ref="spenden:jugend:bildung:sport:tradition:kultur:austausch:direkthilfe:wiederaufbau"/>
+    <file name="img_1259.jpg" crc="177678449" seo="true" ref="spenden"/>
+    <file name="img_1263.jpg" crc="26270850" seo="true" ref="spenden"/>
+    <file name="img_1079.jpg" crc="4114909799" seo="true" ref="spenden"/>
+    <file name="img_1282-crop-u473.jpg" crc="4069760779" ref="spenden"/>
+    <file name="img_1295.jpg" crc="8763422" seo="true" ref="spenden"/>
+    <file name="img_1131.jpg" crc="4010308828" seo="true" ref="spenden"/>
+    <file name="loading.gif" crc="3815509949" ref="spenden:jugend:bildung:sport:tradition:kultur:austausch:direkthilfe:wiederaufbau"/>
+    <file name="road403x269.jpg" crc="3778210317" seo="true" ref="werwir"/>
+    <file name="cactus405x271.jpg" crc="122120262" seo="true" ref="werwir"/>
+    <file name="img_1164.jpg" crc="3921682367" seo="true" ref="bildung"/>
+    <file name="img_1166.jpg" crc="4096182099" seo="true" ref="bildung"/>
+    <file name="11425209_849954541751757_275482399683683250_o-crop-u606.jpg" crc="405192298" ref="bildung"/>
+    <file name="11145895_835939156486629_4533910600814949769_o.jpg" crc="4160489719" seo="true" ref="direkthilfe"/>
+    <file name="11136297_838318146248730_8458829490298761255_o-crop-u792.jpg" crc="29390324" ref="direkthilfe"/>
+    <file name="11141294_838319219581956_3217358127593754463_o-crop-u794.jpg" crc="245035764" ref="direkthilfe"/>
+    <file name="1518247_849954738418404_8600554593807412757_o-crop-u844.jpg" crc="3970361403" ref="wiederaufbau"/>
+    <file name="11896368_888590084554869_3096920089238408082_o-crop-u842.jpg" crc="512118400" ref="wiederaufbau"/>
+    <file name="11313154_839964566084088_5801395455943661640_o.jpg" crc="4227631370" seo="true" ref="wiederaufbau"/>
+    <file name="11057774_839965319417346_2682368260422641718_o-crop-u840.jpg" crc="4082780964" ref="wiederaufbau"/>
+    <file name="11187198_835953693151842_3810880885642295957_o-crop-u838.jpg" crc="296764345" ref="wiederaufbau"/>
+    <file name="trees507x338.jpg" crc="95092717" seo="true" ref="werwir"/>
+  </folder>
+  <file name="index.html" crc="3784883781" seo="true" mt="1482149686552" redirect="true"/>
+  <file name="kontakt.html" crc="254574064" seo="true" mt="1482149034007" redirect="true"/>
+  <file name="werwir.html" crc="433951134" seo="true" mt="1478277458666" redirect="true"/>
+  <file name="spenden.html" crc="29549328" seo="true" mt="1482149686549" redirect="true"/>
+  <file name="jugend.html" crc="500946804" seo="true" mt="1482149686554" redirect="true"/>
+  <file name="bildung.html" crc="437017885" seo="true" mt="1482149686547" redirect="true"/>
+  <file name="sport.html" crc="94182182" seo="true" mt="1482149686546" redirect="true"/>
+  <file name="tradition.html" crc="3913167845" seo="true" mt="1482149686543" redirect="true"/>
+  <file name="kultur.html" crc="429155240" seo="true" mt="1482149686542" redirect="true"/>
+  <file name="austausch.html" crc="3889159563" seo="true" mt="1482149686538" redirect="true"/>
+  <file name="direkthilfe.html" crc="328556745" seo="true" mt="1482149686558" redirect="true"/>
+  <file name="wiederaufbau.html" crc="452482406" seo="true" mt="1482149686556" redirect="true"/>
+  <file name="impressum.html" crc="5239625" seo="true" mt="1478268092973" redirect="true"/>
+  <file name="impressum1.html" crc="4152172499" seo="true" mt="1478268150907" redirect="true"/>
+  <file name="impressum2.html" crc="508417194" seo="true" mt="1478268191557" redirect="true"/>
+  <file name="aktuelles.html" crc="498514991" seo="true" mt="1478333610680" redirect="true"/>
+</manifest>
