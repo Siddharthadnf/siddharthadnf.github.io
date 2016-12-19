@@ -1,7 +1,7 @@
 .version.werwir /* version checker */
 {
-	color: #0000F8;
-	background-color: #1FF6B4;
+	color: #0000F9;
+	background-color: #EBBA8F;
 }
 
 @-ms-viewport
@@ -185,7 +185,7 @@
 #u1284-7
 {
 	z-index: 61;
-	width: 123px;
+	width: 80px;
 	min-height: 57px;
 	background-color: transparent;
 	font-family: Courier New, Courier, monospace;

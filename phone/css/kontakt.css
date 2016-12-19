@@ -1,7 +1,7 @@
 .version.kontakt /* version checker */
 {
-	color: #00000C;
-	background-color: #B1BEC5;
+	color: #000018;
+	background-color: #7CB4C6;
 }
 
 @-ms-viewport
@@ -379,7 +379,7 @@
 #u1271-11
 {
 	z-index: 93;
-	width: 495px;
+	width: 321px;
 	min-height: 59px;
 	background-color: transparent;
 	font-size: 9px;
