@@ -1,11 +1,11 @@
-<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="siddhartha-dnf.de" resolutions="1x" timestamp="1482172367714">
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="siddhartha-dnf.de" resolutions="1x" timestamp="1482173516575">
   <folder name="phone">
     <folder name="css">
       <file name="impressum1.css" crc="4107295331" ref="phone>impressum1"/>
       <file name="jugend.css" crc="4107295331" ref="phone>jugend"/>
       <file name="werwir.css" crc="4107295331" ref="phone>werwir"/>
       <file name="bildung.css" crc="4107295331" ref="phone>bildung"/>
-      <file name="index.css" crc="3836788401" ref="phone>index"/>
+      <file name="index.css" crc="520377324" ref="phone>index"/>
       <file name="wiederaufbau.css" crc="4107295331" ref="phone>wiederaufbau"/>
       <file name="kultur.css" crc="4107295331" ref="phone>kultur"/>
       <file name="sport.css" crc="4107295331" ref="phone>sport"/>
@@ -18,22 +18,22 @@
       <file name="tradition.css" crc="4107295331" ref="phone>tradition"/>
       <file name="impressum2.css" crc="4107295331" ref="phone>impressum2"/>
     </folder>
-    <file name="index.html" crc="231529049" seo="true" mt="1482172288112" redirect="true"/>
-    <file name="impressum1.html" crc="4150883447" seo="true" mt="1482171096869" redirect="false"/>
-    <file name="impressum2.html" crc="4068450408" seo="true" mt="1482171096952" redirect="false"/>
-    <file name="aktuelles.html" crc="3880804136" seo="true" mt="1482171097014" redirect="false"/>
-    <file name="kontakt.html" crc="4126066573" seo="true" mt="1482171097077" redirect="false"/>
-    <file name="impressum.html" crc="225414938" seo="true" mt="1482171097135" redirect="false"/>
-    <file name="werwir.html" crc="169167515" seo="true" mt="1482171097202" redirect="false"/>
-    <file name="spenden.html" crc="524014955" seo="true" mt="1482171097286" redirect="false"/>
-    <file name="jugend.html" crc="4225048843" seo="true" mt="1482171097348" redirect="false"/>
-    <file name="bildung.html" crc="317787985" seo="true" mt="1482171097410" redirect="false"/>
-    <file name="sport.html" crc="477473720" seo="true" mt="1482171097469" redirect="false"/>
-    <file name="tradition.html" crc="4180139285" seo="true" mt="1482171097535" redirect="false"/>
-    <file name="kultur.html" crc="372088932" seo="true" mt="1482171097592" redirect="false"/>
-    <file name="austausch.html" crc="38857639" seo="true" mt="1482171097661" redirect="false"/>
-    <file name="direkthilfe.html" crc="41514278" seo="true" mt="1482171097724" redirect="false"/>
-    <file name="wiederaufbau.html" crc="367349583" seo="true" mt="1482171097782" redirect="false"/>
+    <file name="index.html" crc="291848435" seo="true" mt="1482173470724" redirect="true"/>
+    <file name="impressum1.html" crc="4150883447" seo="true" mt="1482173018273" redirect="false"/>
+    <file name="impressum2.html" crc="4068450408" seo="true" mt="1482173018275" redirect="false"/>
+    <file name="aktuelles.html" crc="3880804136" seo="true" mt="1482173018284" redirect="false"/>
+    <file name="kontakt.html" crc="4126066573" seo="true" mt="1482173018288" redirect="false"/>
+    <file name="impressum.html" crc="225414938" seo="true" mt="1482173018292" redirect="false"/>
+    <file name="werwir.html" crc="169167515" seo="true" mt="1482173018301" redirect="false"/>
+    <file name="spenden.html" crc="524014955" seo="true" mt="1482173018305" redirect="false"/>
+    <file name="jugend.html" crc="4225048843" seo="true" mt="1482173018310" redirect="false"/>
+    <file name="bildung.html" crc="317787985" seo="true" mt="1482173018320" redirect="false"/>
+    <file name="sport.html" crc="477473720" seo="true" mt="1482173018323" redirect="false"/>
+    <file name="tradition.html" crc="4180139285" seo="true" mt="1482173018332" redirect="false"/>
+    <file name="kultur.html" crc="372088932" seo="true" mt="1482173018336" redirect="false"/>
+    <file name="austausch.html" crc="38857639" seo="true" mt="1482173018339" redirect="false"/>
+    <file name="direkthilfe.html" crc="41514278" seo="true" mt="1482173018347" redirect="false"/>
+    <file name="wiederaufbau.html" crc="367349583" seo="true" mt="1482173018350" redirect="false"/>
   </folder>
   <folder name="assets">
     <file name="microsoft-word-dokument-(neu).pdf" crc="530573387" seo="true" mt="1478339936000"/>
@@ -101,20 +101,20 @@
     <file name="trees507x338.jpg" crc="95092717" seo="true" ref="werwir"/>
     <file name="sid_schräg.gif" crc="4114224811" seo="true" ref="phone>index"/>
   </folder>
-  <file name="index.html" crc="3878024194" seo="true" mt="1482171096786" redirect="true"/>
-  <file name="kontakt.html" crc="3851642953" seo="true" mt="1482171097074" redirect="true"/>
-  <file name="werwir.html" crc="433951134" seo="true" mt="1482171097199" redirect="true"/>
-  <file name="spenden.html" crc="4199166748" seo="true" mt="1482171097283" redirect="true"/>
-  <file name="jugend.html" crc="112556344" seo="true" mt="1482171097340" redirect="true"/>
-  <file name="bildung.html" crc="3918466758" seo="true" mt="1482171097407" redirect="true"/>
-  <file name="sport.html" crc="3811385476" seo="true" mt="1482171097466" redirect="true"/>
-  <file name="tradition.html" crc="211380915" seo="true" mt="1482171097532" redirect="true"/>
-  <file name="kultur.html" crc="3818324542" seo="true" mt="1482171097589" redirect="true"/>
-  <file name="austausch.html" crc="440903422" seo="true" mt="1482171097658" redirect="true"/>
-  <file name="direkthilfe.html" crc="4021155824" seo="true" mt="1482171097716" redirect="true"/>
-  <file name="wiederaufbau.html" crc="495839568" seo="true" mt="1482171097778" redirect="true"/>
-  <file name="impressum.html" crc="5239625" seo="true" mt="1482171097131" redirect="true"/>
-  <file name="impressum1.html" crc="4152172499" seo="true" mt="1482171096866" redirect="true"/>
-  <file name="impressum2.html" crc="508417194" seo="true" mt="1482171096949" redirect="true"/>
-  <file name="aktuelles.html" crc="498514991" seo="true" mt="1482171097006" redirect="true"/>
+  <file name="index.html" crc="3878024194" seo="true" mt="1482173017827" redirect="true"/>
+  <file name="kontakt.html" crc="3851642953" seo="true" mt="1482173017829" redirect="true"/>
+  <file name="werwir.html" crc="433951134" seo="true" mt="1482173017837" redirect="true"/>
+  <file name="spenden.html" crc="4199166748" seo="true" mt="1482173017839" redirect="true"/>
+  <file name="jugend.html" crc="112556344" seo="true" mt="1482173017842" redirect="true"/>
+  <file name="bildung.html" crc="3918466758" seo="true" mt="1482173017850" redirect="true"/>
+  <file name="sport.html" crc="3811385476" seo="true" mt="1482173017853" redirect="true"/>
+  <file name="tradition.html" crc="211380915" seo="true" mt="1482173017861" redirect="true"/>
+  <file name="kultur.html" crc="3818324542" seo="true" mt="1482173017863" redirect="true"/>
+  <file name="austausch.html" crc="440903422" seo="true" mt="1482173017865" redirect="true"/>
+  <file name="direkthilfe.html" crc="4021155824" seo="true" mt="1482173017873" redirect="true"/>
+  <file name="wiederaufbau.html" crc="495839568" seo="true" mt="1482173017877" redirect="true"/>
+  <file name="impressum.html" crc="5239625" seo="true" mt="1482173017880" redirect="true"/>
+  <file name="impressum1.html" crc="4152172499" seo="true" mt="1482173017888" redirect="true"/>
+  <file name="impressum2.html" crc="508417194" seo="true" mt="1482173017890" redirect="true"/>
+  <file name="aktuelles.html" crc="498514991" seo="true" mt="1482173017899" redirect="true"/>
 </manifest>
