@@ -206,18 +206,21 @@
     <lastmod>2016-12-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://siddhartha-dnf.de/phone/impressum.html"/>
   </url>
   <url>
     <loc>http://siddhartha-dnf.de/impressum1.html</loc>
     <lastmod>2016-12-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://siddhartha-dnf.de/phone/impressum1.html"/>
   </url>
   <url>
     <loc>http://siddhartha-dnf.de/impressum2.html</loc>
     <lastmod>2016-12-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://siddhartha-dnf.de/phone/impressum2.html"/>
   </url>
   <url>
     <loc>http://siddhartha-dnf.de/aktuelles.html</loc>

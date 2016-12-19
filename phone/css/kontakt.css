@@ -1,7 +1,7 @@
 .version.kontakt /* version checker */
 {
-	color: #0000F6;
-	background-color: #EC1BF8;
+	color: #000006;
+	background-color: #740679;
 }
 
 @-ms-viewport
@@ -50,63 +50,6 @@
 {
 	margin-bottom: -18px;
 	width: 0.01px;
-}
-
-#u1253-4
-{
-	z-index: 2;
-	width: 241px;
-	min-height: 23px;
-	background-color: transparent;
-	line-height: 14px;
-	font-size: 12px;
-	font-family: Verdana, Tahoma, Geneva, sans-serif;
-	font-weight: bold;
-	margin-left: 11px;
-	margin-top: 118px;
-	position: relative;
-}
-
-#u1254-6
-{
-	z-index: 6;
-	width: 303px;
-	min-height: 50px;
-	background-color: transparent;
-	font-size: 11px;
-	line-height: 13px;
-	font-family: Verdana, Tahoma, Geneva, sans-serif;
-	margin-left: 57px;
-	margin-top: 17px;
-	position: relative;
-}
-
-#u1254-3
-{
-	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
-}
-
-#u1258-15
-{
-	z-index: 12;
-	width: 349px;
-	min-height: 317px;
-	background-color: transparent;
-	font-family: Verdana, Tahoma, Geneva, sans-serif;
-	margin-left: 19px;
-	margin-top: 60px;
-	position: relative;
-}
-
-#u1258-3
-{
-	font-size: 11px;
-	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
-}
-
-#u1254-2,#u1258
-{
-	line-height: 13px;
 }
 
 #u1302
@@ -256,12 +199,6 @@
 	line-height: 14px;
 }
 
-#u1254,#u1308-4
-{
-	font-size: 9px;
-	line-height: 11px;
-}
-
 #u1308-5
 {
 	font-size: 30px;
@@ -272,8 +209,69 @@
 {
 	z-index: 92;
 	min-height: 82px;
-	margin-top: -585px;
-	margin-bottom: -86px;
+}
+
+#u1253-4
+{
+	z-index: 2;
+	width: 241px;
+	min-height: 23px;
+	background-color: transparent;
+	line-height: 14px;
+	font-size: 12px;
+	font-family: Verdana, Tahoma, Geneva, sans-serif;
+	font-weight: bold;
+	margin-left: 11px;
+	margin-top: 32px;
+	position: relative;
+}
+
+#u1254-6
+{
+	z-index: 6;
+	width: 303px;
+	min-height: 50px;
+	background-color: transparent;
+	font-size: 11px;
+	line-height: 13px;
+	font-family: Verdana, Tahoma, Geneva, sans-serif;
+	margin-left: 57px;
+	margin-top: 17px;
+	position: relative;
+}
+
+#u1254-3
+{
+	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
+}
+
+#u1308-4,#u1254
+{
+	font-size: 9px;
+	line-height: 11px;
+}
+
+#u1258-15
+{
+	z-index: 12;
+	width: 349px;
+	min-height: 317px;
+	background-color: transparent;
+	font-family: Verdana, Tahoma, Geneva, sans-serif;
+	margin-left: 19px;
+	margin-top: 60px;
+	position: relative;
+}
+
+#u1258-3
+{
+	font-size: 11px;
+	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
+}
+
+#u1254-2,#u1258
+{
+	line-height: 13px;
 }
 
 #u1261
