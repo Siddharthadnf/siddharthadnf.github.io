@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="siddhartha-dnf.de" resolutions="1x" timestamp="1482179400598">
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="siddhartha-dnf.de" resolutions="1x" timestamp="1482180503432">
   <folder name="phone">
     <folder name="css">
       <file name="impressum1.css" crc="222447617" ref="phone>impressum1"/>
@@ -111,7 +111,7 @@
   </folder>
   <file name="index.html" crc="3878024194" seo="true" mt="1482173017827" redirect="true"/>
   <file name="kontakt.html" crc="3776452236" seo="true" mt="1482179393944" redirect="true"/>
-  <file name="werwir.html" crc="250813089" seo="true" mt="1482177791627" redirect="true"/>
+  <file name="werwir.html" crc="309796603" seo="true" mt="1482180490578" redirect="true"/>
   <file name="spenden.html" crc="4199166748" seo="true" mt="1482173017839" redirect="true"/>
   <file name="jugend.html" crc="112556344" seo="true" mt="1482173017842" redirect="true"/>
   <file name="bildung.html" crc="3918466758" seo="true" mt="1482173017850" redirect="true"/>
