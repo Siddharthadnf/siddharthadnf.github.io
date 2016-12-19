@@ -138,12 +138,14 @@
     <lastmod>2016-12-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://siddhartha-dnf.de/phone/kontakt.html"/>
   </url>
   <url>
     <loc>http://siddhartha-dnf.de/werwir.html</loc>
     <lastmod>2016-12-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://siddhartha-dnf.de/phone/werwir.html"/>
   </url>
   <url>
     <loc>http://siddhartha-dnf.de/spenden.html</loc>
@@ -222,5 +224,6 @@
     <lastmod>2016-12-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://siddhartha-dnf.de/phone/aktuelles.html"/>
   </url>
 </urlset>

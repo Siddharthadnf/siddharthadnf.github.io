@@ -1,30 +1,30 @@
-<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="siddhartha-dnf.de" resolutions="1x" timestamp="1482173516575">
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="siddhartha-dnf.de" resolutions="1x" timestamp="1482176142088">
   <folder name="phone">
     <folder name="css">
       <file name="impressum1.css" crc="4107295331" ref="phone>impressum1"/>
       <file name="jugend.css" crc="4107295331" ref="phone>jugend"/>
-      <file name="werwir.css" crc="4107295331" ref="phone>werwir"/>
+      <file name="werwir.css" crc="4162844340" ref="phone>werwir"/>
       <file name="bildung.css" crc="4107295331" ref="phone>bildung"/>
-      <file name="index.css" crc="520377324" ref="phone>index"/>
+      <file name="index.css" crc="3847139251" ref="phone>index"/>
       <file name="wiederaufbau.css" crc="4107295331" ref="phone>wiederaufbau"/>
       <file name="kultur.css" crc="4107295331" ref="phone>kultur"/>
       <file name="sport.css" crc="4107295331" ref="phone>sport"/>
       <file name="direkthilfe.css" crc="4107295331" ref="phone>direkthilfe"/>
-      <file name="kontakt.css" crc="4107295331" ref="phone>kontakt"/>
-      <file name="aktuelles.css" crc="4107295331" ref="phone>aktuelles"/>
+      <file name="kontakt.css" crc="212975301" ref="phone>kontakt"/>
+      <file name="aktuelles.css" crc="99730458" ref="phone>aktuelles"/>
       <file name="austausch.css" crc="4107295331" ref="phone>austausch"/>
       <file name="spenden.css" crc="4107295331" ref="phone>spenden"/>
       <file name="impressum.css" crc="4107295331" ref="phone>impressum"/>
       <file name="tradition.css" crc="4107295331" ref="phone>tradition"/>
       <file name="impressum2.css" crc="4107295331" ref="phone>impressum2"/>
     </folder>
-    <file name="index.html" crc="291848435" seo="true" mt="1482173470724" redirect="true"/>
+    <file name="index.html" crc="451664508" seo="true" mt="1482174134485" redirect="true"/>
     <file name="impressum1.html" crc="4150883447" seo="true" mt="1482173018273" redirect="false"/>
     <file name="impressum2.html" crc="4068450408" seo="true" mt="1482173018275" redirect="false"/>
-    <file name="aktuelles.html" crc="3880804136" seo="true" mt="1482173018284" redirect="false"/>
-    <file name="kontakt.html" crc="4126066573" seo="true" mt="1482173018288" redirect="false"/>
+    <file name="aktuelles.html" crc="55522628" seo="true" mt="1482174277520" redirect="true"/>
+    <file name="kontakt.html" crc="3944508182" seo="true" mt="1482175610126" redirect="true"/>
     <file name="impressum.html" crc="225414938" seo="true" mt="1482173018292" redirect="false"/>
-    <file name="werwir.html" crc="169167515" seo="true" mt="1482173018301" redirect="false"/>
+    <file name="werwir.html" crc="4227290572" seo="true" mt="1482176132862" redirect="true"/>
     <file name="spenden.html" crc="524014955" seo="true" mt="1482173018305" redirect="false"/>
     <file name="jugend.html" crc="4225048843" seo="true" mt="1482173018310" redirect="false"/>
     <file name="bildung.html" crc="317787985" seo="true" mt="1482173018320" redirect="false"/>
@@ -66,7 +66,7 @@
     <file name="jquery.museoverlay.js" crc="493285861" ref="index:werwir:spenden:jugend:bildung:sport:tradition:kultur:austausch:direkthilfe:wiederaufbau:phone>index"/>
     <file name="touchswipe.js" crc="4038331989" ref="index:werwir:spenden:jugend:bildung:sport:tradition:kultur:austausch:direkthilfe:wiederaufbau:phone>index"/>
     <file name="jquery.watch.js" crc="71412426" ref="index:kontakt:werwir:spenden:jugend:bildung:sport:tradition:kultur:austausch:direkthilfe:wiederaufbau:impressum:impressum1:impressum2:aktuelles:phone>index:phone>impressum1:phone>impressum2:phone>aktuelles:phone>kontakt:phone>impressum:phone>werwir:phone>spenden:phone>jugend:phone>bildung:phone>sport:phone>tradition:phone>kultur:phone>austausch:phone>direkthilfe:phone>wiederaufbau"/>
-    <file name="museredirect.js" crc="40941066" ref="index"/>
+    <file name="museredirect.js" crc="40941066" ref="index:kontakt:werwir:aktuelles"/>
   </folder>
   <folder name="images">
     <file name="sid_schräg-u75-fr.jpg" crc="497952610" ref="index:spenden:jugend:bildung:sport:tradition:kultur:austausch:direkthilfe:wiederaufbau"/>
@@ -99,11 +99,11 @@
     <file name="11057774_839965319417346_2682368260422641718_o-crop-u840.jpg" crc="4082780964" ref="wiederaufbau"/>
     <file name="11187198_835953693151842_3810880885642295957_o-crop-u838.jpg" crc="296764345" ref="wiederaufbau"/>
     <file name="trees507x338.jpg" crc="95092717" seo="true" ref="werwir"/>
-    <file name="sid_schräg.gif" crc="4114224811" seo="true" ref="phone>index"/>
+    <file name="sid_schräg.gif" crc="4114224811" seo="true" ref="phone>index:phone>werwir"/>
   </folder>
   <file name="index.html" crc="3878024194" seo="true" mt="1482173017827" redirect="true"/>
-  <file name="kontakt.html" crc="3851642953" seo="true" mt="1482173017829" redirect="true"/>
-  <file name="werwir.html" crc="433951134" seo="true" mt="1482173017837" redirect="true"/>
+  <file name="kontakt.html" crc="319541654" seo="true" mt="1482173017829" redirect="true"/>
+  <file name="werwir.html" crc="250813089" seo="true" mt="1482173017837" redirect="true"/>
   <file name="spenden.html" crc="4199166748" seo="true" mt="1482173017839" redirect="true"/>
   <file name="jugend.html" crc="112556344" seo="true" mt="1482173017842" redirect="true"/>
   <file name="bildung.html" crc="3918466758" seo="true" mt="1482173017850" redirect="true"/>
@@ -116,5 +116,5 @@
   <file name="impressum.html" crc="5239625" seo="true" mt="1482173017880" redirect="true"/>
   <file name="impressum1.html" crc="4152172499" seo="true" mt="1482173017888" redirect="true"/>
   <file name="impressum2.html" crc="508417194" seo="true" mt="1482173017890" redirect="true"/>
-  <file name="aktuelles.html" crc="498514991" seo="true" mt="1482173017899" redirect="true"/>
+  <file name="aktuelles.html" crc="4591334" seo="true" mt="1482173017899" redirect="true"/>
 </manifest>
