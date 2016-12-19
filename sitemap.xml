@@ -121,10 +121,17 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://siddhartha-dnf.de/images/sid_schr%C3%A4g.gif</loc>
+    <lastmod>2016-12-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://siddhartha-dnf.de/index.html</loc>
     <lastmod>2016-12-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://siddhartha-dnf.de/phone/index.html"/>
   </url>
   <url>
     <loc>http://siddhartha-dnf.de/kontakt.html</loc>
@@ -194,25 +201,25 @@
   </url>
   <url>
     <loc>http://siddhartha-dnf.de/impressum.html</loc>
-    <lastmod>2016-11-04</lastmod>
+    <lastmod>2016-12-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://siddhartha-dnf.de/impressum1.html</loc>
-    <lastmod>2016-11-04</lastmod>
+    <lastmod>2016-12-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://siddhartha-dnf.de/impressum2.html</loc>
-    <lastmod>2016-11-04</lastmod>
+    <lastmod>2016-12-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://siddhartha-dnf.de/aktuelles.html</loc>
-    <lastmod>2016-11-05</lastmod>
+    <lastmod>2016-12-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
