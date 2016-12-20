@@ -1,16 +1,16 @@
-<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="siddhartha-dnf.de" resolutions="1x" timestamp="1482241756665">
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="siddhartha-dnf.de" resolutions="1x" timestamp="1482242265044">
   <folder name="phone">
     <folder name="css">
       <file name="impressum1.css" crc="222447617" ref="phone>impressum1"/>
       <file name="jugend.css" crc="4107295331" ref="phone>jugend"/>
       <file name="werwir.css" crc="4271351537" ref="phone>werwir"/>
       <file name="bildung.css" crc="4107295331" ref="phone>bildung"/>
-      <file name="index.css" crc="4200190554" ref="phone>index"/>
+      <file name="index.css" crc="3973793256" ref="phone>index"/>
       <file name="wiederaufbau.css" crc="4107295331" ref="phone>wiederaufbau"/>
       <file name="kultur.css" crc="4107295331" ref="phone>kultur"/>
       <file name="sport.css" crc="4107295331" ref="phone>sport"/>
       <file name="direkthilfe.css" crc="4107295331" ref="phone>direkthilfe"/>
-      <file name="kontakt.css" crc="3963890948" ref="phone>kontakt"/>
+      <file name="kontakt.css" crc="3883719357" ref="phone>kontakt"/>
       <file name="aktuelles.css" crc="240666952" ref="phone>aktuelles"/>
       <file name="austausch.css" crc="4107295331" ref="phone>austausch"/>
       <file name="spenden.css" crc="4107295331" ref="phone>spenden"/>
@@ -18,11 +18,11 @@
       <file name="tradition.css" crc="4107295331" ref="phone>tradition"/>
       <file name="impressum2.css" crc="3766871448" ref="phone>impressum2"/>
     </folder>
-    <file name="index.html" crc="59021324" seo="true" mt="1482237403937" redirect="true"/>
+    <file name="index.html" crc="59021324" seo="true" mt="1482242256333" redirect="true"/>
     <file name="impressum1.html" crc="3856170415" seo="true" mt="1482178349832" redirect="true"/>
     <file name="impressum2.html" crc="425891410" seo="true" mt="1482178492504" redirect="true"/>
     <file name="aktuelles.html" crc="268447299" seo="true" mt="1482235809835" redirect="true"/>
-    <file name="kontakt.html" crc="480551428" seo="true" mt="1482241745117" redirect="true"/>
+    <file name="kontakt.html" crc="3775074087" seo="true" mt="1482242009817" redirect="true"/>
     <file name="impressum.html" crc="3999974202" seo="true" mt="1482178512207" redirect="true"/>
     <file name="werwir.html" crc="4149812704" seo="true" mt="1482240534224" redirect="true"/>
     <file name="spenden.html" crc="524014955" seo="true" mt="1482173018305" redirect="false"/>
