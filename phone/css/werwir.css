@@ -1,7 +1,7 @@
 .version.werwir /* version checker */
 {
-	color: #0000F0;
-	background-color: #59A5F4;
+	color: #0000FE;
+	background-color: #97A6F1;
 }
 
 @-ms-viewport
@@ -175,7 +175,7 @@
 
 #u1282
 {
-	z-index: 60;
+	z-index: 65;
 	width: 71px;
 	background-color: transparent;
 	position: relative;
@@ -186,7 +186,7 @@
 
 #u1284-7
 {
-	z-index: 62;
+	z-index: 67;
 	width: 80px;
 	min-height: 57px;
 	background-color: transparent;
@@ -202,12 +202,6 @@
 {
 	font-size: 12px;
 	line-height: 14px;
-}
-
-#u1284-4
-{
-	font-size: 9px;
-	line-height: 11px;
 }
 
 #u1284-3
@@ -227,63 +221,123 @@
 	min-height: 82px;
 }
 
-#pu1277-17
+#pu1277-13
 {
 	width: 0.01px;
-	margin-left: 21px;
-	margin-top: 29px;
+	margin-left: 29px;
+	margin-top: 34px;
 }
 
-#u1277-17
+#u1277-13
 {
 	z-index: 15;
 	width: 163px;
-	min-height: 264px;
+	min-height: 165px;
 	background-color: transparent;
-	font-size: 11px;
-	line-height: 13px;
 	font-family: Verdana, Tahoma, Geneva, sans-serif;
 	position: relative;
 	margin-right: -10000px;
-	left: 166px;
+	margin-top: 1px;
 }
 
-#u1278-19
+#u1277-6
 {
-	z-index: 32;
+	font-size: 9px;
+	line-height: 11px;
+	padding-bottom: 6px;
+}
+
+#u1277-9
+{
+	font-size: 11px;
+	padding-bottom: 6px;
+	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
+}
+
+#u1284-4,#u1277-7
+{
+	font-size: 9px;
+	line-height: 11px;
+}
+
+#u1277-8
+{
+	line-height: 14px;
+}
+
+#u1278-37
+{
+	z-index: 28;
 	width: 183px;
-	min-height: 292px;
+	min-height: 190px;
 	background-color: transparent;
-	font-size: 11px;
-	line-height: 13px;
 	font-family: Verdana, Tahoma, Geneva, sans-serif;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 250px;
-	left: 2px;
+	left: 171px;
 }
 
-#u1279-9
+#u1277-2,#u1278-2
 {
-	z-index: 51;
-	width: 150px;
-	min-height: 248px;
-	background-color: transparent;
+	font-style: italic;
+}
+
+#u1277-3,#u1277-4,#u1277-10,#u1277-11,#u1278-3,#u1278-4
+{
 	font-size: 11px;
 	line-height: 13px;
-	font-family: Verdana, Tahoma, Geneva, sans-serif;
-	position: relative;
-	margin-right: -10000px;
 }
 
-#u1277-5,#u1277-7,#u1277-9,#u1277-11,#u1277-13,#u1278-5,#u1278-7,#u1278-9,#u1278-11,#u1278-13,#u1278-15,#u1278-17,#u1279-5,#u1279-7
+#u1278-9,#u1278-11,#u1278-23,#u1278-25
 {
+	font-size: 9px;
+	line-height: 5px;
+	padding-bottom: 6px;
+	font-style: italic;
+}
+
+#u1278-13,#u1278-27
+{
+	font-size: 9px;
+	line-height: 5px;
+}
+
+#u1278-16,#u1278-18,#u1278-30
+{
+	font-size: 9px;
+	line-height: 5px;
+	padding-bottom: 6px;
+}
+
+#u1278-7,#u1278-14,#u1278-21,#u1278-28,#u1278-33
+{
+	font-size: 10px;
+	padding-bottom: 6px;
+	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
+}
+
+#u1278-5,#u1278-12,#u1278-19,#u1278-26,#u1278-31
+{
+	line-height: 6px;
+}
+
+#u1278-6,#u1278-20,#u1278-32
+{
+	font-size: 9px;
+	font-style: italic;
+	line-height: 5px;
+}
+
+#u1278-34,#u1278-35
+{
+	font-size: 10px;
+	line-height: 12px;
 	padding-bottom: 6px;
 }
 
 #u1286-4
 {
-	z-index: 69;
+	z-index: 74;
 	width: 69px;
 	min-height: 13px;
 	background-color: transparent;
@@ -292,7 +346,7 @@
 	font-size: 11px;
 	font-family: Verdana, Tahoma, Geneva, sans-serif;
 	margin-left: 163px;
-	margin-top: 279px;
+	margin-top: 617px;
 	position: relative;
 }
 

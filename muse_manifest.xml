@@ -1,16 +1,16 @@
-<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="siddhartha-dnf.de" resolutions="1x" timestamp="1482239746003">
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="siddhartha-dnf.de" resolutions="1x" timestamp="1482241756665">
   <folder name="phone">
     <folder name="css">
       <file name="impressum1.css" crc="222447617" ref="phone>impressum1"/>
       <file name="jugend.css" crc="4107295331" ref="phone>jugend"/>
-      <file name="werwir.css" crc="4032407028" ref="phone>werwir"/>
+      <file name="werwir.css" crc="4271351537" ref="phone>werwir"/>
       <file name="bildung.css" crc="4107295331" ref="phone>bildung"/>
       <file name="index.css" crc="4200190554" ref="phone>index"/>
       <file name="wiederaufbau.css" crc="4107295331" ref="phone>wiederaufbau"/>
       <file name="kultur.css" crc="4107295331" ref="phone>kultur"/>
       <file name="sport.css" crc="4107295331" ref="phone>sport"/>
       <file name="direkthilfe.css" crc="4107295331" ref="phone>direkthilfe"/>
-      <file name="kontakt.css" crc="58092664" ref="phone>kontakt"/>
+      <file name="kontakt.css" crc="3963890948" ref="phone>kontakt"/>
       <file name="aktuelles.css" crc="240666952" ref="phone>aktuelles"/>
       <file name="austausch.css" crc="4107295331" ref="phone>austausch"/>
       <file name="spenden.css" crc="4107295331" ref="phone>spenden"/>
@@ -22,9 +22,9 @@
     <file name="impressum1.html" crc="3856170415" seo="true" mt="1482178349832" redirect="true"/>
     <file name="impressum2.html" crc="425891410" seo="true" mt="1482178492504" redirect="true"/>
     <file name="aktuelles.html" crc="268447299" seo="true" mt="1482235809835" redirect="true"/>
-    <file name="kontakt.html" crc="4045029945" seo="true" mt="1482239735846" redirect="true"/>
+    <file name="kontakt.html" crc="480551428" seo="true" mt="1482241745117" redirect="true"/>
     <file name="impressum.html" crc="3999974202" seo="true" mt="1482178512207" redirect="true"/>
-    <file name="werwir.html" crc="3868134635" seo="true" mt="1482235805493" redirect="true"/>
+    <file name="werwir.html" crc="4149812704" seo="true" mt="1482240534224" redirect="true"/>
     <file name="spenden.html" crc="524014955" seo="true" mt="1482173018305" redirect="false"/>
     <file name="jugend.html" crc="4225048843" seo="true" mt="1482173018310" redirect="false"/>
     <file name="bildung.html" crc="317787985" seo="true" mt="1482173018320" redirect="false"/>
@@ -41,8 +41,8 @@
   <folder name="css">
     <file name="site_global.css" crc="3888461080"/>
     <file name="index.css" crc="348538795" ref="index"/>
-    <file name="kontakt.css" crc="4258562516" ref="kontakt"/>
-    <file name="werwir.css" crc="3831123081" ref="werwir"/>
+    <file name="kontakt.css" crc="240697641" ref="kontakt"/>
+    <file name="werwir.css" crc="3774466578" ref="werwir"/>
     <file name="sport.css" crc="4135250265" ref="sport"/>
     <file name="kultur.css" crc="497402234" ref="kultur"/>
     <file name="austausch.css" crc="169518148" ref="austausch"/>
@@ -116,8 +116,8 @@
     <file name="dsc_0179-u1730-fr.jpg" crc="4157093083" ref="phone>kontakt"/>
   </folder>
   <file name="index.html" crc="3878024194" seo="true" mt="1482173017827" redirect="true"/>
-  <file name="kontakt.html" crc="3776452236" seo="true" mt="1482179393944" redirect="true"/>
-  <file name="werwir.html" crc="185571360" seo="true" mt="1482182348887" redirect="true"/>
+  <file name="kontakt.html" crc="391901063" seo="true" mt="1482241672512" redirect="true"/>
+  <file name="werwir.html" crc="3846653113" seo="true" mt="1482240545748" redirect="true"/>
   <file name="spenden.html" crc="4199166748" seo="true" mt="1482173017839" redirect="true"/>
   <file name="jugend.html" crc="112556344" seo="true" mt="1482173017842" redirect="true"/>
   <file name="bildung.html" crc="3918466758" seo="true" mt="1482173017850" redirect="true"/>

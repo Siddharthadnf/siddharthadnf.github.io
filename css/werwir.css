@@ -1,7 +1,7 @@
 .version.werwir /* version checker */
 {
-	color: #0000E4;
-	background-color: #5A4C89;
+	color: #0000E0;
+	background-color: #F9CA12;
 }
 
 .html
@@ -37,8 +37,8 @@
 	min-height: 14px;
 	background-color: transparent;
 	line-height: 13px;
-	text-align: center;
 	font-size: 11px;
+	text-align: center;
 	font-family: Verdana, Tahoma, Geneva, sans-serif;
 	position: fixed;
 	top: 60px;
@@ -53,8 +53,8 @@
 	min-height: 14px;
 	background-color: transparent;
 	line-height: 12px;
-	text-align: center;
 	font-size: 10px;
+	text-align: center;
 	font-family: Verdana, Tahoma, Geneva, sans-serif;
 	position: fixed;
 	top: 60px;
@@ -69,8 +69,8 @@
 	min-height: 14px;
 	background-color: transparent;
 	line-height: 12px;
-	text-align: center;
 	font-size: 10px;
+	text-align: center;
 	font-family: Verdana, Tahoma, Geneva, sans-serif;
 	position: fixed;
 	top: 60px;
@@ -623,8 +623,8 @@
 	min-height: 20px;
 	background-color: transparent;
 	line-height: 17px;
-	text-align: center;
 	font-size: 12px;
+	text-align: center;
 	font-family: Verdana, Tahoma, Geneva, sans-serif;
 }
 
@@ -735,9 +735,9 @@
 	min-height: 20px;
 	background-color: transparent;
 	line-height: 17px;
-	text-align: center;
-	font-size: 12px;
 	color: #000000;
+	font-size: 12px;
+	text-align: center;
 	font-family: Verdana, Tahoma, Geneva, sans-serif;
 }
 
@@ -777,8 +777,8 @@
 {
 	color: #000000;
 	visibility: inherit;
-	font-size: 12px;
 	line-height: 1.4;
+	font-size: 12px;
 	font-family: Verdana, Tahoma, Geneva, sans-serif;
 }
 
@@ -855,9 +855,9 @@
 	border-color: #DEDEDE;
 	background-color: transparent;
 	line-height: 17px;
-	text-align: center;
-	font-size: 12px;
 	color: #000000;
+	font-size: 12px;
+	text-align: center;
 	font-family: Verdana, Tahoma, Geneva, sans-serif;
 }
 
@@ -895,9 +895,9 @@
 {
 	color: #000000;
 	visibility: inherit;
-	text-align: center;
-	font-size: 12px;
 	line-height: 1.4;
+	font-size: 12px;
+	text-align: center;
 	font-family: Verdana, Tahoma, Geneva, sans-serif;
 }
 
@@ -927,8 +927,8 @@
 	min-height: 13px;
 	background-color: transparent;
 	line-height: 13px;
-	font-size: 11px;
 	color: #7F7F7F;
+	font-size: 11px;
 	font-family: Trebuchet, Trebuchet MS, Tahoma, Arial, sans-serif;
 	margin-left: 1001px;
 	margin-top: 25px;
