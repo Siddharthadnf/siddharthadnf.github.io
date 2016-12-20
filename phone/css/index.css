@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000F0;
-	background-color: #E814C4;
+	color: #000007;
+	background-color: #F14FC9;
 }
 
 @-ms-viewport
@@ -81,22 +81,9 @@
 #u1243-4.MuseLinkActive p
 {
 	font-size: 12px;
+	text-decoration: none;
 	font-weight: bold;
 	font-style: italic;
-}
-
-#ppu1244-4
-{
-	width: 0.01px;
-	margin-left: 25px;
-	margin-top: 3px;
-}
-
-#pu1244-4
-{
-	width: 0.01px;
-	padding-bottom: 0px;
-	margin-right: -10000px;
 }
 
 #u1244-4
@@ -110,6 +97,8 @@
 	font-family: Courier New, Courier, monospace;
 	font-weight: bold;
 	font-style: italic;
+	margin-left: 25px;
+	margin-top: 3px;
 	position: relative;
 }
 
@@ -120,7 +109,7 @@
 	padding-bottom: 0px;
 	min-height: 17px;
 	width: 62px;
-	margin: 0px;
+	margin: 3px 0px 0px 25px;
 }
 
 #u1244-4:active
@@ -130,7 +119,7 @@
 	padding-bottom: 0px;
 	min-height: 17px;
 	width: 62px;
-	margin: 0px;
+	margin: 3px 0px 0px 25px;
 }
 
 #u1245-4
@@ -144,6 +133,7 @@
 	font-family: Courier New, Courier, monospace;
 	font-weight: bold;
 	font-style: italic;
+	margin-left: 25px;
 	margin-top: 3px;
 	position: relative;
 }
@@ -155,7 +145,7 @@
 	padding-bottom: 0px;
 	min-height: 17px;
 	width: 57px;
-	margin: 3px 0px 0px;
+	margin: 3px 0px 0px 25px;
 }
 
 #u1245-4:active
@@ -165,7 +155,7 @@
 	padding-bottom: 0px;
 	min-height: 17px;
 	width: 57px;
-	margin: 3px 0px 0px;
+	margin: 3px 0px 0px 25px;
 }
 
 #u1244,#u1245
@@ -178,10 +168,9 @@
 	z-index: 2;
 	width: 123px;
 	background-color: transparent;
+	margin-left: 136px;
+	margin-top: 10px;
 	position: relative;
-	margin-right: -10000px;
-	margin-top: 7px;
-	left: 101px;
 }
 
 #u1129-7
@@ -192,7 +181,7 @@
 	background-color: transparent;
 	font-family: Courier New, Courier, monospace;
 	font-weight: bold;
-	margin-left: 128px;
+	margin-left: 138px;
 	top: -4px;
 	margin-bottom: -4px;
 	position: relative;
@@ -228,13 +217,13 @@
 	min-height: 14px;
 	background-color: transparent;
 	line-height: 13px;
-	text-align: center;
-	font-size: 11px;
 	color: #000000;
+	font-size: 11px;
+	text-align: center;
 	font-family: Verdana, Tahoma, Geneva, sans-serif;
 	font-style: italic;
 	margin-left: 64px;
-	margin-top: 201px;
+	margin-top: 191px;
 	position: relative;
 }
 
@@ -245,9 +234,9 @@
 	min-height: 14px;
 	background-color: transparent;
 	line-height: 13px;
-	text-align: center;
-	font-size: 11px;
 	color: #000000;
+	font-size: 11px;
+	text-align: center;
 	font-family: Verdana, Tahoma, Geneva, sans-serif;
 	font-style: italic;
 	margin-left: 64px;
@@ -259,10 +248,10 @@
 {
 	z-index: 11;
 	width: 0.01px;
-	height: 443px;
+	height: 393px;
 	padding-bottom: 12px;
 	left: -777px;
-	margin-top: 98px;
+	margin-top: 118px;
 	position: relative;
 }
 
@@ -272,7 +261,7 @@
 	width: 181px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 422px;
+	margin-top: 372px;
 	left: 9px;
 }
 
@@ -317,8 +306,8 @@
 	border-color: #DEDEDE;
 	background-color: transparent;
 	line-height: 20px;
-	text-align: center;
 	color: #C4C4C4;
+	text-align: center;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 }
 
@@ -427,8 +416,8 @@
 	border-color: transparent;
 	background-color: transparent;
 	line-height: 20px;
-	text-align: center;
 	color: #C4C4C4;
+	text-align: center;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 }
 
@@ -561,8 +550,8 @@
 	border-color: #DEDEDE;
 	background-color: transparent;
 	line-height: 20px;
-	text-align: center;
 	color: #C4C4C4;
+	text-align: center;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 }
 
@@ -650,13 +639,13 @@
 {
 	z-index: 41;
 	width: 380px;
-	height: 300px;
+	height: 320px;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	padding-top: 21px;
+	padding-top: 1px;
 	padding-right: 1px;
-	padding-bottom: 69px;
+	padding-bottom: 29px;
 	margin-right: -10000px;
 	position: relative;
 }
@@ -678,7 +667,7 @@
 	color: #7F7F7F;
 	font-family: Courier New, Courier, monospace;
 	margin-left: 31px;
-	margin-top: 13px;
+	margin-top: 33px;
 	position: relative;
 }
 
@@ -691,7 +680,7 @@
 	border-color: transparent;
 	background-color: transparent;
 	padding-top: 21px;
-	padding-bottom: 47px;
+	padding-bottom: 7px;
 	margin-right: -10000px;
 	position: relative;
 }
@@ -726,7 +715,6 @@
 	border-color: transparent;
 	background-color: transparent;
 	padding-top: 21px;
-	padding-bottom: 40px;
 	margin-right: -10000px;
 	position: relative;
 }
@@ -787,7 +775,7 @@
 	min-height: 163px;
 	background-color: transparent;
 	margin-left: 45px;
-	top: -726px;
+	top: -696px;
 	margin-bottom: -240px;
 	position: relative;
 }
@@ -834,8 +822,8 @@
 	min-height: 13px;
 	background-color: transparent;
 	line-height: 13px;
-	font-size: 11px;
 	color: #7F7F7F;
+	font-size: 11px;
 	font-family: Verdana, Tahoma, Geneva, sans-serif;
 	margin-left: 157px;
 	margin-top: 40px;

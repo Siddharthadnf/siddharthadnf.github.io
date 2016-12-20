@@ -1,7 +1,7 @@
 .version.werwir /* version checker */
 {
-	color: #0000FA;
-	background-color: #934663;
+	color: #0000F0;
+	background-color: #59A5F4;
 }
 
 @-ms-viewport
@@ -138,6 +138,11 @@
 	margin: 3px 0px 0px;
 }
 
+#u1273,#u1274
+{
+	text-decoration: underline;
+}
+
 #u1275-4
 {
 	z-index: 11;
@@ -163,9 +168,9 @@
 	margin: 3px 0px 0px;
 }
 
-#u1274,#u1275
+#u1275-4.MuseLinkActive p
 {
-	text-decoration: underline;
+	text-decoration: none;
 }
 
 #u1282
@@ -283,8 +288,8 @@
 	min-height: 13px;
 	background-color: transparent;
 	line-height: 13px;
-	font-size: 11px;
 	color: #7F7F7F;
+	font-size: 11px;
 	font-family: Verdana, Tahoma, Geneva, sans-serif;
 	margin-left: 163px;
 	margin-top: 279px;

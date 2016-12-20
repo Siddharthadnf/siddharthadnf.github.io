@@ -1,7 +1,7 @@
 .version.aktuelles /* version checker */
 {
-	color: #000005;
-	background-color: #F58AA2;
+	color: #00000E;
+	background-color: #584948;
 }
 
 @-ms-viewport
@@ -173,7 +173,7 @@
 	margin: 3px 0px 0px;
 }
 
-#u1315,#u1316
+#u1314,#u1315,#u1316
 {
 	text-decoration: underline;
 }
@@ -276,8 +276,8 @@
 	min-height: 13px;
 	background-color: transparent;
 	line-height: 13px;
-	font-size: 11px;
 	color: #7F7F7F;
+	font-size: 11px;
 	font-family: Verdana, Tahoma, Geneva, sans-serif;
 	margin-left: 153px;
 	margin-top: 281px;
