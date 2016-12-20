@@ -1,16 +1,16 @@
-<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="siddhartha-dnf.de" resolutions="1x" timestamp="1482237256555">
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="siddhartha-dnf.de" resolutions="1x" timestamp="1482239746003">
   <folder name="phone">
     <folder name="css">
       <file name="impressum1.css" crc="222447617" ref="phone>impressum1"/>
       <file name="jugend.css" crc="4107295331" ref="phone>jugend"/>
       <file name="werwir.css" crc="4032407028" ref="phone>werwir"/>
       <file name="bildung.css" crc="4107295331" ref="phone>bildung"/>
-      <file name="index.css" crc="133255113" ref="phone>index"/>
+      <file name="index.css" crc="4200190554" ref="phone>index"/>
       <file name="wiederaufbau.css" crc="4107295331" ref="phone>wiederaufbau"/>
       <file name="kultur.css" crc="4107295331" ref="phone>kultur"/>
       <file name="sport.css" crc="4107295331" ref="phone>sport"/>
       <file name="direkthilfe.css" crc="4107295331" ref="phone>direkthilfe"/>
-      <file name="kontakt.css" crc="3788916349" ref="phone>kontakt"/>
+      <file name="kontakt.css" crc="58092664" ref="phone>kontakt"/>
       <file name="aktuelles.css" crc="240666952" ref="phone>aktuelles"/>
       <file name="austausch.css" crc="4107295331" ref="phone>austausch"/>
       <file name="spenden.css" crc="4107295331" ref="phone>spenden"/>
@@ -18,11 +18,11 @@
       <file name="tradition.css" crc="4107295331" ref="phone>tradition"/>
       <file name="impressum2.css" crc="3766871448" ref="phone>impressum2"/>
     </folder>
-    <file name="index.html" crc="59021324" seo="true" mt="1482236536127" redirect="true"/>
+    <file name="index.html" crc="59021324" seo="true" mt="1482237403937" redirect="true"/>
     <file name="impressum1.html" crc="3856170415" seo="true" mt="1482178349832" redirect="true"/>
     <file name="impressum2.html" crc="425891410" seo="true" mt="1482178492504" redirect="true"/>
     <file name="aktuelles.html" crc="268447299" seo="true" mt="1482235809835" redirect="true"/>
-    <file name="kontakt.html" crc="371831344" seo="true" mt="1482237250294" redirect="true"/>
+    <file name="kontakt.html" crc="4045029945" seo="true" mt="1482239735846" redirect="true"/>
     <file name="impressum.html" crc="3999974202" seo="true" mt="1482178512207" redirect="true"/>
     <file name="werwir.html" crc="3868134635" seo="true" mt="1482235805493" redirect="true"/>
     <file name="spenden.html" crc="524014955" seo="true" mt="1482173018305" redirect="false"/>
@@ -101,14 +101,19 @@
     <file name="trees507x338.jpg" crc="95092717" seo="true" ref="werwir"/>
     <file name="sid_schräg.gif" crc="4114224811" seo="true" ref="phone>index:phone>werwir:phone>kontakt:phone>aktuelles"/>
     <file name="dsc_0190.jpg" crc="3807887191" ref="kontakt"/>
-    <file name="dsc_0300.jpg" crc="486545181" ref="kontakt:phone>kontakt"/>
-    <file name="dsc_0346.jpg" crc="161475632" ref="kontakt:phone>kontakt"/>
-    <file name="dsc_0867.jpg" crc="3900304621" ref="kontakt:phone>kontakt"/>
-    <file name="dsc_0186.jpg" crc="3989039501" ref="kontakt:phone>kontakt"/>
-    <file name="dsc_0302.jpg" crc="4227433714" ref="kontakt:phone>kontakt"/>
-    <file name="dsc_0179.jpg" crc="3938810331" ref="kontakt:phone>kontakt"/>
-    <file name="dsc_0480.jpg" crc="230473114" ref="kontakt:phone>kontakt"/>
+    <file name="dsc_0300.jpg" crc="486545181" ref="kontakt"/>
+    <file name="dsc_0346.jpg" crc="161475632" ref="kontakt"/>
+    <file name="dsc_0867.jpg" crc="3900304621" ref="kontakt"/>
+    <file name="dsc_0186.jpg" crc="3989039501" ref="kontakt"/>
+    <file name="dsc_0302.jpg" crc="4227433714" ref="kontakt"/>
+    <file name="dsc_0179.jpg" crc="3938810331" ref="kontakt"/>
+    <file name="dsc_0480.jpg" crc="230473114" ref="kontakt"/>
     <file name="dsc_0190-u1728-fr.jpg" crc="170418368" ref="phone>kontakt"/>
+    <file name="dsc_0300-u1731-fr.jpg" crc="4177800493" ref="phone>kontakt"/>
+    <file name="dsc_0346-u1729-fr.jpg" crc="118251623" ref="phone>kontakt"/>
+    <file name="dsc_0186-u1732-fr.jpg" crc="4256609838" ref="phone>kontakt"/>
+    <file name="dsc_0302-u1733-fr.jpg" crc="4221479054" ref="phone>kontakt"/>
+    <file name="dsc_0179-u1730-fr.jpg" crc="4157093083" ref="phone>kontakt"/>
   </folder>
   <file name="index.html" crc="3878024194" seo="true" mt="1482173017827" redirect="true"/>
   <file name="kontakt.html" crc="3776452236" seo="true" mt="1482179393944" redirect="true"/>
