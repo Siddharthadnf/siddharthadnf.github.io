@@ -1,7 +1,7 @@
 .version.kontakt /* version checker */
 {
-	color: #00000E;
-	background-color: #58C129;
+	color: #0000FD;
+	background-color: #6D8C29;
 }
 
 .html
@@ -377,8 +377,9 @@
 #u1636
 {
 	position: absolute;
-	width: 982px;
+	width: 729px;
 	top: -1px;
+	left: 253px;
 }
 
 #u1636popup
@@ -396,6 +397,7 @@
 	background-color: #FFFFFF;
 	position: relative;
 	margin-right: -10000px;
+	left: -253px;
 	border-width: 0px 0px 1px;
 }
 
@@ -422,7 +424,6 @@
 	background-color: #FFFFFF;
 	position: relative;
 	margin-right: -10000px;
-	left: 253px;
 	border-width: 0px 0px 1px;
 }
 
@@ -449,7 +450,7 @@
 	background-color: #FFFFFF;
 	position: relative;
 	margin-right: -10000px;
-	left: 507px;
+	left: 253px;
 	border-width: 0px 0px 1px;
 }
 
@@ -476,7 +477,7 @@
 	background-color: #FFFFFF;
 	position: relative;
 	margin-right: -10000px;
-	left: 760px;
+	left: 507px;
 	border-width: 0px 0px 1px;
 }
 
@@ -504,6 +505,7 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 312px;
+	left: -253px;
 	border-width: 0px 0px 1px;
 }
 
@@ -531,7 +533,6 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 312px;
-	left: 253px;
 	border-width: 0px 0px 1px;
 }
 
@@ -559,7 +560,7 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 312px;
-	left: 507px;
+	left: 253px;
 	border-width: 0px 0px 1px;
 }
 
@@ -587,7 +588,7 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 312px;
-	left: 760px;
+	left: 507px;
 	border-width: 0px 0px 1px;
 }
 
@@ -658,8 +659,8 @@
 	width: 220px;
 	min-height: 33px;
 	background-color: transparent;
-	font-size: 16px;
 	line-height: 19px;
+	font-size: 16px;
 	font-family: Verdana, Tahoma, Geneva, sans-serif;
 	font-weight: normal;
 	font-style: normal;
@@ -688,8 +689,8 @@
 	width: 220px;
 	min-height: 33px;
 	background-color: transparent;
-	font-size: 16px;
 	line-height: 19px;
+	font-size: 16px;
 	font-family: Verdana, Tahoma, Geneva, sans-serif;
 	font-weight: normal;
 	font-style: normal;
@@ -940,8 +941,8 @@
 	min-height: 13px;
 	background-color: transparent;
 	line-height: 13px;
-	color: #7F7F7F;
 	font-size: 11px;
+	color: #7F7F7F;
 	font-family: Trebuchet, Trebuchet MS, Tahoma, Arial, sans-serif;
 	position: relative;
 	margin-right: -10000px;

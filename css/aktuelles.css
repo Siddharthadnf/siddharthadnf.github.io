@@ -1,7 +1,7 @@
 .version.aktuelles /* version checker */
 {
-	color: #0000E6;
-	background-color: #A1453A;
+	color: #0000FF;
+	background-color: #0FF552;
 }
 
 .html
@@ -35,8 +35,8 @@
 	min-height: 14px;
 	background-color: transparent;
 	line-height: 13px;
-	text-align: center;
 	font-size: 11px;
+	text-align: center;
 	font-family: Verdana, Tahoma, Geneva, sans-serif;
 	position: fixed;
 	top: 60px;
@@ -51,8 +51,8 @@
 	min-height: 14px;
 	background-color: transparent;
 	line-height: 12px;
-	text-align: center;
 	font-size: 10px;
+	text-align: center;
 	font-family: Verdana, Tahoma, Geneva, sans-serif;
 	position: fixed;
 	top: 60px;
@@ -67,8 +67,8 @@
 	min-height: 14px;
 	background-color: transparent;
 	line-height: 12px;
-	text-align: center;
 	font-size: 10px;
+	text-align: center;
 	font-family: Verdana, Tahoma, Geneva, sans-serif;
 	position: fixed;
 	top: 60px;
