@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="siddhartha-dnf.de" resolutions="1x" timestamp="1494246204061">
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="siddhartha-dnf.de" resolutions="1x" timestamp="1494248131168">
   <folder name="phone">
     <folder name="css">
       <file name="impressum1.css" crc="4072302732" ref="phone>impressum1"/>
@@ -58,7 +58,7 @@
     <file name="impressum.css" crc="3962086428" ref="impressum"/>
     <file name="aktuelles.css" crc="89614009" ref="aktuelles"/>
     <file name="index.css" crc="3856698261" ref="index"/>
-    <file name="index-kopie.css" crc="120260372" ref="index-kopie"/>
+    <file name="index-kopie.css" crc="54102474" ref="index-kopie"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="4255413929" ref="index:kontakt:werwir:spenden:jugend:bildung:sport:tradition:kultur:austausch:direkthilfe:wiederaufbau:impressum:impressum1:impressum2:aktuelles:phone>index:phone>impressum1:phone>impressum2:phone>aktuelles:phone>kontakt:phone>impressum:phone>werwir:phone>spenden:phone>jugend:phone>bildung:phone>sport:phone>tradition:phone>kultur:phone>austausch:phone>direkthilfe:phone>wiederaufbau:index-kopie"/>
@@ -136,5 +136,5 @@
   <file name="impressum1.html" crc="4034782206" seo="true" mt="1494240338144" redirect="true"/>
   <file name="impressum2.html" crc="131683060" seo="true" mt="1494240312039" redirect="true"/>
   <file name="aktuelles.html" crc="290688970" seo="true" mt="1494240681922" redirect="true"/>
-  <file name="index-kopie.html" crc="472323946" seo="true" mt="1494245094608" redirect="true"/>
+  <file name="index-kopie.html" crc="3881765208" seo="true" mt="1494248124913" redirect="true"/>
 </manifest>
