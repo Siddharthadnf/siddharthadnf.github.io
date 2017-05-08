@@ -1,7 +1,7 @@
 .version.sport /* version checker */
 {
-	color: #0000F6;
-	background-color: #7AE959;
+	color: #0000F7;
+	background-color: #EB287A;
 }
 
 .html
@@ -12,48 +12,72 @@
 #page
 {
 	z-index: 1;
-	width: 960px;
-	min-height: 500px;
+	width: 912px;
+	min-height: 418px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
 	background-color: transparent;
+	padding-top: 20px;
+	padding-right: 48px;
+	padding-bottom: 62px;
 	margin-left: auto;
 	margin-right: auto;
 }
 
-#page_position_content
+#u1902-4
 {
-	padding-top: 102px;
-	padding-bottom: 62px;
-	width: 0.01px;
+	z-index: 49;
+	width: 201px;
+	min-height: 30px;
+	background-color: transparent;
+	line-height: 18px;
+	font-size: 15px;
+	font-family: Courier New, Courier, monospace;
+	font-style: italic;
+	position: relative;
 }
 
-#u555-4
+#u1887
 {
-	z-index: 3;
-	width: 880px;
+	z-index: 44;
+	width: 212px;
+	height: 160px;
+	position: fixed;
+	top: 72px;
+	left: 50%;
+	margin-left: -100px;
+	background: transparent url("../images/sid_schr%c3%a4g-u75-fr.jpg") no-repeat left top;
+	background-size: contain;
+}
+
+#u1888-4
+{
+	z-index: 45;
+	width: 490px;
 	min-height: 93px;
 	background-color: transparent;
 	line-height: 18px;
 	font-size: 15px;
 	font-family: Courier New, Courier, monospace;
-	font-weight: bold;
+	font-weight: normal;
+	font-style: italic;
 	position: fixed;
-	top: 137px;
+	top: 232px;
 	left: 50%;
-	margin-left: -705px;
+	margin-left: -207px;
 }
 
 #pu641-9
 {
 	width: 0.01px;
-	margin-left: 321px;
+	margin-left: 83px;
+	margin-top: 251px;
 }
 
 #u641-9
 {
-	z-index: 7;
+	z-index: 2;
 	width: 829px;
 	min-height: 827px;
 	background-color: transparent;
@@ -79,13 +103,13 @@
 
 #slideshowu642
 {
-	z-index: 16;
+	z-index: 11;
 	width: 0.01px;
 	height: 400px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 183px;
-	left: 71px;
+	margin-top: 200px;
+	left: 153px;
 }
 
 #u656
@@ -98,12 +122,12 @@
 
 #u656popup
 {
-	z-index: 17;
+	z-index: 12;
 }
 
 #u661
 {
-	z-index: 18;
+	z-index: 13;
 	width: 480px;
 	height: 360px;
 	border-style: none;
@@ -115,7 +139,7 @@
 
 #u657
 {
-	z-index: 20;
+	z-index: 15;
 	width: 480px;
 	height: 360px;
 	border-style: none;
@@ -127,7 +151,7 @@
 
 #u659
 {
-	z-index: 22;
+	z-index: 17;
 	width: 480px;
 	height: 360px;
 	border-style: none;
@@ -160,12 +184,12 @@
 
 #u643popup
 {
-	z-index: 24;
+	z-index: 19;
 }
 
 #u646-4
 {
-	z-index: 25;
+	z-index: 20;
 	width: 329px;
 	min-height: 20px;
 	border-style: none;
@@ -173,8 +197,8 @@
 	background-color: #FFFFFF;
 	padding: 10px;
 	line-height: 20px;
-	text-align: left;
 	color: #999999;
+	text-align: left;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	margin-right: -10000px;
 	position: relative;
@@ -182,7 +206,7 @@
 
 #u644-4
 {
-	z-index: 29;
+	z-index: 24;
 	width: 329px;
 	min-height: 20px;
 	border-style: none;
@@ -190,8 +214,8 @@
 	background-color: #FFFFFF;
 	padding: 10px;
 	line-height: 20px;
-	text-align: left;
 	color: #999999;
+	text-align: left;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	margin-right: -10000px;
 	position: relative;
@@ -199,7 +223,7 @@
 
 #u645-4
 {
-	z-index: 33;
+	z-index: 28;
 	width: 329px;
 	min-height: 20px;
 	border-style: none;
@@ -207,8 +231,8 @@
 	background-color: #FFFFFF;
 	padding: 10px;
 	line-height: 20px;
-	text-align: left;
 	color: #999999;
+	text-align: left;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	margin-right: -10000px;
 	position: relative;
@@ -232,7 +256,7 @@
 
 #u664-4popup
 {
-	z-index: 37;
+	z-index: 32;
 }
 
 #u663-4
@@ -253,7 +277,7 @@
 
 #u663-4popup
 {
-	z-index: 41;
+	z-index: 36;
 }
 
 #u664,#u663
@@ -271,8 +295,8 @@
 	background-color: #FFFFFF;
 	padding: 10px;
 	line-height: 20px;
-	text-align: center;
 	color: #999999;
+	text-align: center;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: 360px;
 	left: 450px;
@@ -280,7 +304,7 @@
 
 #u655-4popup
 {
-	z-index: 45;
+	z-index: 40;
 }
 
 .SSFirstButton,.SSPreviousButton,.SSNextButton,.SSLastButton,.SSSlideLink,.SSCloseButton /* slideshowFreeStyle */
@@ -291,19 +315,6 @@
 .SSSlideLoading /* slideshowFreeStyle */
 {
 	background: url("../images/loading.gif") no-repeat center center;
-}
-
-#u554
-{
-	z-index: 2;
-	width: 212px;
-	height: 160px;
-	position: fixed;
-	top: 178px;
-	left: 50%;
-	margin-left: -574px;
-	background: transparent url("../images/sid_schr%c3%a4g-u75-fr.jpg") no-repeat left top;
-	background-size: contain;
 }
 
 body

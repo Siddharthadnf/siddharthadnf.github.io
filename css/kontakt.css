@@ -1,7 +1,7 @@
 .version.kontakt /* version checker */
 {
-	color: #00001C;
-	background-color: #E7C308;
+	color: #0000F0;
+	background-color: #9D8D7F;
 }
 
 .html
@@ -127,6 +127,9 @@
 	z-index: 24;
 	height: 788px;
 	background-color: #FF6757;
+	opacity: 0.85;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=85)";
+	filter: alpha(opacity=85);
 }
 
 #u278-bw

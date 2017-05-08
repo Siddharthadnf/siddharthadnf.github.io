@@ -1,7 +1,7 @@
 .version.spenden /* version checker */
 {
-	color: #00001E;
-	background-color: #A247EB;
+	color: #0000FC;
+	background-color: #D378F7;
 }
 
 .html
@@ -12,43 +12,67 @@
 #page
 {
 	z-index: 1;
-	width: 960px;
-	min-height: 928px;
+	width: 903px;
+	min-height: 845.7713592233008px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
 	background-color: transparent;
+	padding-top: 20px;
+	padding-right: 57px;
+	padding-bottom: 62.228640776699194px;
 	margin-left: auto;
 	margin-right: auto;
 }
 
-#page_position_content
+#u1899-4
 {
-	padding-top: 102px;
-	padding-bottom: 62px;
-	width: 0.01px;
+	z-index: 77;
+	width: 201px;
+	min-height: 30px;
+	background-color: transparent;
+	line-height: 18px;
+	font-size: 15px;
+	font-family: Courier New, Courier, monospace;
+	font-style: italic;
+	position: relative;
+}
+
+#u466
+{
+	z-index: 2;
+	width: 212px;
+	height: 160px;
+	position: fixed;
+	top: 72px;
+	left: 50%;
+	margin-left: -100px;
+	background: transparent url("../images/sid_schr%c3%a4g-u75-fr.jpg") no-repeat left top;
+	background-size: contain;
 }
 
 #u549-4
 {
 	z-index: 73;
-	width: 880px;
+	width: 490px;
 	min-height: 93px;
 	background-color: transparent;
 	line-height: 18px;
 	font-size: 15px;
 	font-family: Courier New, Courier, monospace;
-	font-weight: bold;
+	font-weight: normal;
+	font-style: italic;
 	position: fixed;
-	top: 137px;
+	top: 232px;
 	left: 50%;
-	margin-left: -705px;
+	margin-left: -207px;
 }
 
 #pu467-13
 {
 	width: 0.01px;
-	margin-left: 321px;
+	margin-left: 74px;
+	margin-top: 261px;
 }
 
 #u467-13
@@ -84,7 +108,7 @@
 	height: 400px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 325px;
+	margin-top: 326px;
 	left: 132px;
 }
 
@@ -227,8 +251,8 @@
 	background-color: #FFFFFF;
 	padding: 10px;
 	line-height: 20px;
-	text-align: left;
 	color: #999999;
+	text-align: left;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	margin-right: -10000px;
 	position: relative;
@@ -244,8 +268,8 @@
 	background-color: #FFFFFF;
 	padding: 10px;
 	line-height: 20px;
-	text-align: left;
 	color: #999999;
+	text-align: left;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	margin-right: -10000px;
 	position: relative;
@@ -261,8 +285,8 @@
 	background-color: #FFFFFF;
 	padding: 10px;
 	line-height: 20px;
-	text-align: left;
 	color: #999999;
+	text-align: left;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	margin-right: -10000px;
 	position: relative;
@@ -278,8 +302,8 @@
 	background-color: #FFFFFF;
 	padding: 10px;
 	line-height: 20px;
-	text-align: left;
 	color: #999999;
+	text-align: left;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	margin-right: -10000px;
 	position: relative;
@@ -295,8 +319,8 @@
 	background-color: #FFFFFF;
 	padding: 10px;
 	line-height: 20px;
-	text-align: left;
 	color: #999999;
+	text-align: left;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	margin-right: -10000px;
 	position: relative;
@@ -312,8 +336,8 @@
 	background-color: #FFFFFF;
 	padding: 10px;
 	line-height: 20px;
-	text-align: left;
 	color: #999999;
+	text-align: left;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	margin-right: -10000px;
 	position: relative;
@@ -329,8 +353,8 @@
 	background-color: #FFFFFF;
 	padding: 10px;
 	line-height: 20px;
-	text-align: left;
 	color: #999999;
+	text-align: left;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	margin-right: -10000px;
 	position: relative;
@@ -393,8 +417,8 @@
 	background-color: #FFFFFF;
 	padding: 10px;
 	line-height: 20px;
-	text-align: center;
 	color: #999999;
+	text-align: center;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: 360px;
 	left: 450px;
@@ -413,19 +437,6 @@
 .SSSlideLoading /* slideshowFreeStyle */
 {
 	background: url("../images/loading.gif") no-repeat center center;
-}
-
-#u466
-{
-	z-index: 2;
-	width: 212px;
-	height: 160px;
-	position: fixed;
-	top: 178px;
-	left: 50%;
-	margin-left: -574px;
-	background: transparent url("../images/sid_schr%c3%a4g-u75-fr.jpg") no-repeat left top;
-	background-size: contain;
 }
 
 body
