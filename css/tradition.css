@@ -1,7 +1,7 @@
 .version.tradition /* version checker */
 {
-	color: #0000E6;
-	background-color: #30B5FF;
+	color: #00000E;
+	background-color: #7E4701;
 }
 
 .html
@@ -12,22 +12,32 @@
 #page
 {
 	z-index: 1;
-	width: 902px;
-	min-height: 418px;
+	width: 829px;
+	min-height: 136px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
 	background-color: transparent;
-	padding-top: 20px;
-	padding-right: 58px;
-	padding-bottom: 62px;
 	margin-left: auto;
 	margin-right: auto;
+	padding: 302px 58px 62px 73px;
+}
+
+#u1935
+{
+	z-index: 49;
+	width: 944px;
+	height: 260px;
+	background-color: #FFFFFF;
+	position: fixed;
+	top: 0px;
+	left: 50%;
+	margin-left: -481px;
 }
 
 #u1903-4
 {
-	z-index: 54;
+	z-index: 55;
 	width: 201px;
 	min-height: 30px;
 	background-color: transparent;
@@ -35,12 +45,15 @@
 	font-size: 15px;
 	font-family: Courier New, Courier, monospace;
 	font-style: italic;
-	position: relative;
+	position: fixed;
+	top: 56px;
+	left: 50%;
+	margin-left: -480px;
 }
 
 #u1889
 {
-	z-index: 49;
+	z-index: 50;
 	width: 212px;
 	height: 160px;
 	position: fixed;
@@ -53,7 +66,7 @@
 
 #u1890-4
 {
-	z-index: 50;
+	z-index: 51;
 	width: 490px;
 	min-height: 93px;
 	background-color: transparent;
@@ -71,8 +84,6 @@
 #pu674-14
 {
 	width: 0.01px;
-	margin-left: 73px;
-	margin-top: 252px;
 }
 
 #u674-14

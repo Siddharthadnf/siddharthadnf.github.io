@@ -1,7 +1,7 @@
 .version.spenden /* version checker */
 {
-	color: #0000F3;
-	background-color: #667EC6;
+	color: #00000A;
+	background-color: #59F369;
 }
 
 .html
@@ -12,17 +12,15 @@
 #page
 {
 	z-index: 1;
-	width: 903px;
-	min-height: 845.7713592233008px;
+	width: 829px;
+	min-height: 555px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
 	background-color: transparent;
-	padding-top: 20px;
-	padding-right: 57px;
-	padding-bottom: 62.228640776699194px;
 	margin-left: auto;
 	margin-right: auto;
+	padding: 311px 57px 62px 74px;
 }
 
 #u1931
@@ -47,7 +45,10 @@
 	font-size: 15px;
 	font-family: Courier New, Courier, monospace;
 	font-style: italic;
-	position: relative;
+	position: fixed;
+	top: 56px;
+	left: 50%;
+	margin-left: -480px;
 }
 
 #u466
@@ -83,8 +84,6 @@
 #pslideshowu468
 {
 	width: 0.01px;
-	margin-left: 74px;
-	margin-top: 261px;
 }
 
 #slideshowu468

@@ -1,7 +1,7 @@
 .version.direkthilfe /* version checker */
 {
-	color: #0000E1;
-	background-color: #434744;
+	color: #000016;
+	background-color: #73B347;
 }
 
 .html
@@ -12,22 +12,32 @@
 #page
 {
 	z-index: 1;
-	width: 898px;
-	min-height: 418px;
+	width: 829px;
+	min-height: 137px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
 	background-color: transparent;
-	padding-top: 20px;
-	padding-right: 62px;
-	padding-bottom: 62px;
 	margin-left: auto;
 	margin-right: auto;
+	padding: 301px 62px 62px 69px;
+}
+
+#u1938
+{
+	z-index: 44;
+	width: 944px;
+	height: 260px;
+	background-color: #FFFFFF;
+	position: fixed;
+	top: 0px;
+	left: 50%;
+	margin-left: -481px;
 }
 
 #u1906-4
 {
-	z-index: 49;
+	z-index: 50;
 	width: 201px;
 	min-height: 30px;
 	background-color: transparent;
@@ -35,12 +45,15 @@
 	font-size: 15px;
 	font-family: Courier New, Courier, monospace;
 	font-style: italic;
-	position: relative;
+	position: fixed;
+	top: 56px;
+	left: 50%;
+	margin-left: -480px;
 }
 
 #u1895
 {
-	z-index: 44;
+	z-index: 45;
 	width: 212px;
 	height: 160px;
 	position: fixed;
@@ -53,7 +66,7 @@
 
 #u1896-4
 {
-	z-index: 45;
+	z-index: 46;
 	width: 490px;
 	min-height: 93px;
 	background-color: transparent;
@@ -71,8 +84,6 @@
 #pu773-9
 {
 	width: 0.01px;
-	margin-left: 69px;
-	margin-top: 251px;
 }
 
 #u773-9

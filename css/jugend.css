@@ -1,7 +1,7 @@
 .version.jugend /* version checker */
 {
-	color: #000015;
-	background-color: #D5CB04;
+	color: #0000F8;
+	background-color: #A8B32A;
 }
 
 .html
@@ -12,22 +12,32 @@
 #page
 {
 	z-index: 1;
-	width: 903px;
-	min-height: 417.9213592233009px;
+	width: 829px;
+	min-height: 138px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
 	background-color: transparent;
-	padding-top: 20px;
-	padding-right: 57px;
-	padding-bottom: 62.0786407766991px;
 	margin-left: auto;
 	margin-right: auto;
+	padding: 300px 57px 62px 74px;
+}
+
+#u1932
+{
+	z-index: 48;
+	width: 944px;
+	height: 260px;
+	background-color: #FFFFFF;
+	position: fixed;
+	top: 0px;
+	left: 50%;
+	margin-left: -481px;
 }
 
 #u1900-4
 {
-	z-index: 53;
+	z-index: 54;
 	width: 201px;
 	min-height: 30px;
 	background-color: transparent;
@@ -35,12 +45,15 @@
 	font-size: 15px;
 	font-family: Courier New, Courier, monospace;
 	font-style: italic;
-	position: relative;
+	position: fixed;
+	top: 56px;
+	left: 50%;
+	margin-left: -480px;
 }
 
 #u1883
 {
-	z-index: 48;
+	z-index: 49;
 	width: 212px;
 	height: 160px;
 	position: fixed;
@@ -53,7 +66,7 @@
 
 #u1884-4
 {
-	z-index: 49;
+	z-index: 50;
 	width: 490px;
 	min-height: 93px;
 	background-color: transparent;
@@ -71,8 +84,6 @@
 #pu566-13
 {
 	width: 0.01px;
-	margin-left: 74px;
-	margin-top: 250px;
 }
 
 #u566-13
