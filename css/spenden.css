@@ -1,7 +1,7 @@
 .version.spenden /* version checker */
 {
-	color: #0000FC;
-	background-color: #D378F7;
+	color: #00001C;
+	background-color: #8F08B1;
 }
 
 .html
@@ -12,22 +12,27 @@
 #page
 {
 	z-index: 1;
-	width: 903px;
-	min-height: 845.7713592233008px;
+	width: 960px;
+	min-height: 927.7713592233008px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
 	background-color: transparent;
-	padding-top: 20px;
-	padding-right: 57px;
-	padding-bottom: 62.228640776699194px;
+	padding-bottom: 0px;
 	margin-left: auto;
 	margin-right: auto;
 }
 
+#page_position_content
+{
+	padding-top: 20px;
+	padding-bottom: 62px;
+	width: 0.01px;
+}
+
 #u1899-4
 {
-	z-index: 77;
+	z-index: 78;
 	width: 201px;
 	min-height: 30px;
 	background-color: transparent;
@@ -38,9 +43,29 @@
 	position: relative;
 }
 
+#pu1931
+{
+	width: 0.01px;
+	padding-bottom: 188px;
+	margin-left: -1px;
+	margin-top: -14px;
+}
+
+#u1931
+{
+	z-index: 72;
+	width: 944px;
+	height: 185px;
+	background-color: #FFFFFF;
+	position: fixed;
+	top: 75px;
+	left: 50%;
+	margin-left: -481px;
+}
+
 #u466
 {
-	z-index: 2;
+	z-index: 73;
 	width: 212px;
 	height: 160px;
 	position: fixed;
@@ -53,7 +78,7 @@
 
 #u549-4
 {
-	z-index: 73;
+	z-index: 74;
 	width: 490px;
 	min-height: 93px;
 	background-color: transparent;
@@ -68,42 +93,16 @@
 	margin-left: -207px;
 }
 
-#pu467-13
+#pslideshowu468
 {
 	width: 0.01px;
 	margin-left: 74px;
-	margin-top: 261px;
-}
-
-#u467-13
-{
-	z-index: 3;
-	width: 829px;
-	min-height: 827px;
-	background-color: transparent;
-	line-height: 42px;
-	font-size: 35px;
-	font-family: Courier New, Courier, monospace;
-	font-weight: bold;
-	position: relative;
-	margin-right: -10000px;
-}
-
-#u467-5,#u467-7,#u467-9,#u467-11
-{
-	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
-}
-
-#u467-4,#u467-6,#u467-8,#u467-10
-{
-	font-size: 19px;
-	font-weight: normal;
-	line-height: 23px;
+	margin-top: 87px;
 }
 
 #slideshowu468
 {
-	z-index: 16;
+	z-index: 2;
 	width: 0.01px;
 	height: 400px;
 	position: relative;
@@ -122,12 +121,12 @@
 
 #u470popup
 {
-	z-index: 17;
+	z-index: 3;
 }
 
 #u483
 {
-	z-index: 18;
+	z-index: 4;
 	width: 480px;
 	height: 360px;
 	border-style: none;
@@ -145,7 +144,7 @@
 
 #u481
 {
-	z-index: 20;
+	z-index: 6;
 	width: 480px;
 	height: 360px;
 	border-style: none;
@@ -157,7 +156,7 @@
 
 #u479
 {
-	z-index: 22;
+	z-index: 8;
 	width: 480px;
 	height: 360px;
 	border-style: none;
@@ -169,7 +168,7 @@
 
 #u471
 {
-	z-index: 24;
+	z-index: 10;
 	width: 480px;
 	height: 360px;
 	border-style: none;
@@ -181,7 +180,7 @@
 
 #u473
 {
-	z-index: 26;
+	z-index: 12;
 	width: 480px;
 	height: 360px;
 	border-style: none;
@@ -193,7 +192,7 @@
 
 #u477
 {
-	z-index: 28;
+	z-index: 14;
 	width: 480px;
 	height: 360px;
 	border-style: none;
@@ -205,7 +204,7 @@
 
 #u475
 {
-	z-index: 30;
+	z-index: 16;
 	width: 480px;
 	height: 360px;
 	border-style: none;
@@ -238,12 +237,12 @@
 
 #u487popup
 {
-	z-index: 32;
+	z-index: 18;
 }
 
 #u493-4
 {
-	z-index: 33;
+	z-index: 19;
 	width: 329px;
 	min-height: 20px;
 	border-style: none;
@@ -260,7 +259,7 @@
 
 #u491-4
 {
-	z-index: 37;
+	z-index: 23;
 	width: 329px;
 	min-height: 20px;
 	border-style: none;
@@ -277,7 +276,7 @@
 
 #u489-4
 {
-	z-index: 41;
+	z-index: 27;
 	width: 329px;
 	min-height: 20px;
 	border-style: none;
@@ -294,7 +293,7 @@
 
 #u492-4
 {
-	z-index: 45;
+	z-index: 31;
 	width: 329px;
 	min-height: 20px;
 	border-style: none;
@@ -311,7 +310,7 @@
 
 #u490-4
 {
-	z-index: 49;
+	z-index: 35;
 	width: 329px;
 	min-height: 20px;
 	border-style: none;
@@ -328,7 +327,7 @@
 
 #u488-4
 {
-	z-index: 53;
+	z-index: 39;
 	width: 329px;
 	min-height: 20px;
 	border-style: none;
@@ -345,7 +344,7 @@
 
 #u494-4
 {
-	z-index: 57;
+	z-index: 43;
 	width: 329px;
 	min-height: 20px;
 	border-style: none;
@@ -378,7 +377,7 @@
 
 #u512-4popup
 {
-	z-index: 61;
+	z-index: 47;
 }
 
 #u469-4
@@ -399,7 +398,7 @@
 
 #u469-4popup
 {
-	z-index: 65;
+	z-index: 51;
 }
 
 #u512,#u469
@@ -426,7 +425,7 @@
 
 #u486-4popup
 {
-	z-index: 69;
+	z-index: 55;
 }
 
 .SSFirstButton,.SSPreviousButton,.SSNextButton,.SSLastButton,.SSSlideLink,.SSCloseButton /* slideshowFreeStyle */
@@ -437,6 +436,32 @@
 .SSSlideLoading /* slideshowFreeStyle */
 {
 	background: url("../images/loading.gif") no-repeat center center;
+}
+
+#u467-13
+{
+	z-index: 59;
+	width: 829px;
+	min-height: 827px;
+	background-color: transparent;
+	line-height: 42px;
+	font-size: 35px;
+	font-family: Courier New, Courier, monospace;
+	font-weight: bold;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u467-5,#u467-7,#u467-9,#u467-11
+{
+	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
+}
+
+#u467-4,#u467-6,#u467-8,#u467-10
+{
+	font-size: 19px;
+	font-weight: normal;
+	line-height: 23px;
 }
 
 body

@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="siddhartha-dnf.de" resolutions="1x" timestamp="1494243709331">
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="siddhartha-dnf.de" resolutions="1x" timestamp="1494245376627">
   <folder name="phone">
     <folder name="css">
       <file name="impressum1.css" crc="4072302732" ref="phone>impressum1"/>
@@ -18,7 +18,7 @@
       <file name="tradition.css" crc="4107295331" ref="phone>tradition"/>
       <file name="impressum2.css" crc="3827304702" ref="phone>impressum2"/>
     </folder>
-    <file name="index.html" crc="3889910698" seo="true" mt="1494242769838" redirect="true"/>
+    <file name="index.html" crc="3889910698" seo="true" mt="1494245044939" redirect="true"/>
     <file name="impressum1.html" crc="4001457516" seo="true" mt="1494242943303" redirect="true"/>
     <file name="impressum2.html" crc="115047588" seo="true" mt="1494242961122" redirect="true"/>
     <file name="aktuelles.html" crc="394842607" seo="true" mt="1494242860541" redirect="true"/>
@@ -51,14 +51,14 @@
     <file name="tradition.css" crc="3861951999" ref="tradition"/>
     <file name="jugend.css" crc="366332676" ref="jugend"/>
     <file name="bildung.css" crc="519262426" ref="bildung"/>
-    <file name="spenden.css" crc="4241717495" ref="spenden"/>
+    <file name="spenden.css" crc="479135921" ref="spenden"/>
     <file name="wiederaufbau.css" crc="169429331" ref="wiederaufbau"/>
     <file name="impressum1.css" crc="200058782" ref="impressum1"/>
     <file name="impressum2.css" crc="4192165789" ref="impressum2"/>
     <file name="impressum.css" crc="3962086428" ref="impressum"/>
     <file name="aktuelles.css" crc="89614009" ref="aktuelles"/>
     <file name="index.css" crc="3856698261" ref="index"/>
-    <file name="index-kopie.css" crc="65158431" ref="index-kopie"/>
+    <file name="index-kopie.css" crc="120260372" ref="index-kopie"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="4255413929" ref="index:kontakt:werwir:spenden:jugend:bildung:sport:tradition:kultur:austausch:direkthilfe:wiederaufbau:impressum:impressum1:impressum2:aktuelles:phone>index:phone>impressum1:phone>impressum2:phone>aktuelles:phone>kontakt:phone>impressum:phone>werwir:phone>spenden:phone>jugend:phone>bildung:phone>sport:phone>tradition:phone>kultur:phone>austausch:phone>direkthilfe:phone>wiederaufbau:index-kopie"/>
@@ -120,10 +120,10 @@
     <file name="dsc_0228.jpg" crc="371931954" seo="true" ref="index"/>
     <file name="trees415x277.jpg" crc="3997271866" seo="true" ref="werwir"/>
   </folder>
-  <file name="index.html" crc="203576031" seo="true" mt="1494239300194" redirect="true"/>
+  <file name="index.html" crc="4192677090" seo="true" mt="1494245169248" redirect="true"/>
   <file name="kontakt.html" crc="189951574" seo="true" mt="1494240486150" redirect="true"/>
   <file name="werwir.html" crc="4152242376" seo="true" mt="1494242339261" redirect="true"/>
-  <file name="spenden.html" crc="76434757" seo="true" mt="1494241283448" redirect="true"/>
+  <file name="spenden.html" crc="174317865" seo="true" mt="1494245369609" redirect="true"/>
   <file name="jugend.html" crc="282267795" seo="true" mt="1494241306423" redirect="true"/>
   <file name="bildung.html" crc="3952036462" seo="true" mt="1494241310947" redirect="true"/>
   <file name="sport.html" crc="63960592" seo="true" mt="1494241315907" redirect="true"/>
@@ -136,5 +136,5 @@
   <file name="impressum1.html" crc="4034782206" seo="true" mt="1494240338144" redirect="true"/>
   <file name="impressum2.html" crc="131683060" seo="true" mt="1494240312039" redirect="true"/>
   <file name="aktuelles.html" crc="290688970" seo="true" mt="1494240681922" redirect="true"/>
-  <file name="index-kopie.html" crc="4246048912" seo="true" mt="1494240578741" redirect="true"/>
+  <file name="index-kopie.html" crc="472323946" seo="true" mt="1494245094608" redirect="true"/>
 </manifest>
