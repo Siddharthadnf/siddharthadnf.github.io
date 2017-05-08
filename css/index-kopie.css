@@ -1,7 +1,7 @@
 .version.index_kopie /* version checker */
 {
-	color: #000015;
-	background-color: #733B5F;
+	color: #000002;
+	background-color: #CD3976;
 }
 
 .html
@@ -92,9 +92,8 @@
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
 	filter: alpha(opacity=50);
 	position: fixed;
-	top: 98px;
-	left: 50%;
-	margin-left: -869px;
+	top: 62px;
+	left: -389px;
 }
 
 #u1853-7
