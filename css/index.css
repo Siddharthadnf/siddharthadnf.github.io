@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000E5;
-	background-color: #E08B95;
+	color: #0000EE;
+	background-color: #DE0518;
 }
 
 .html
@@ -13,36 +13,41 @@
 {
 	z-index: 1;
 	width: 960px;
-	min-height: 499.9616780045368px;
+	min-height: 438px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
 	background-color: transparent;
-	padding-bottom: 0px;
+	padding-bottom: 62px;
 	margin-left: auto;
 	margin-right: auto;
-}
-
-#page_position_content
-{
-	padding-top: 61px;
-	padding-bottom: 62px;
-	width: 0.01px;
-}
-
-#pu1796
-{
-	width: 0.01px;
-	margin-left: -100px;
 }
 
 #u1796
 {
 	z-index: 2;
-	width: 1164px;
+	width: 1030px;
 	position: relative;
 	margin-right: -10000px;
+	margin-top: 6px;
+	left: -30px;
 	background: #FFFFFF url("../images/sid_schr%c3%a4g.jpg") no-repeat center center;
+}
+
+#u1811-4
+{
+	z-index: 4;
+	width: 589px;
+	min-height: 97px;
+	background-color: transparent;
+	line-height: 25px;
+	color: #000000;
+	font-size: 21px;
+	font-family: Courier New, Courier, monospace;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 680px;
+	left: -32px;
 }
 
 #u1880-4
@@ -57,23 +62,8 @@
 	font-family: Courier New, Courier, monospace;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 725px;
-	left: 539px;
-}
-
-#u1811-4
-{
-	z-index: 4;
-	width: 589px;
-	min-height: 97px;
-	background-color: transparent;
-	line-height: 25px;
-	color: #000000;
-	font-size: 21px;
-	font-family: Courier New, Courier, monospace;
-	left: -100px;
-	margin-top: 6px;
-	position: relative;
+	margin-top: 642px;
+	left: 439px;
 }
 
 body
