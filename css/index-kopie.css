@@ -1,7 +1,7 @@
 .version.index_kopie /* version checker */
 {
 	color: #000018;
-	background-color: #931859;
+	background-color: #F3BE97;
 }
 
 .html
@@ -195,8 +195,8 @@
 	border-color: #DEDEDE;
 	background-color: transparent;
 	line-height: 20px;
-	text-align: center;
 	color: #C4C4C4;
+	text-align: center;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 }
 
@@ -305,8 +305,8 @@
 	border-color: transparent;
 	background-color: transparent;
 	line-height: 20px;
-	text-align: center;
 	color: #C4C4C4;
+	text-align: center;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 }
 
@@ -439,8 +439,8 @@
 	border-color: #DEDEDE;
 	background-color: transparent;
 	line-height: 20px;
-	text-align: center;
 	color: #C4C4C4;
+	text-align: center;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 }
 
@@ -651,9 +651,9 @@
 	min-height: 14px;
 	background-color: transparent;
 	line-height: 13px;
+	color: #000000;
 	font-size: 11px;
 	text-align: center;
-	color: #000000;
 	font-family: Verdana, Tahoma, Geneva, sans-serif;
 	font-style: italic;
 	margin-left: 583px;
@@ -669,9 +669,9 @@
 	min-height: 14px;
 	background-color: transparent;
 	line-height: 13px;
+	color: #000000;
 	font-size: 11px;
 	text-align: center;
-	color: #000000;
 	font-family: Verdana, Tahoma, Geneva, sans-serif;
 	font-style: italic;
 	margin-left: 583px;
@@ -753,8 +753,8 @@
 	min-height: 13px;
 	background-color: transparent;
 	line-height: 13px;
-	font-size: 11px;
 	color: #7F7F7F;
+	font-size: 11px;
 	font-family: Verdana, Tahoma, Geneva, sans-serif;
 	margin-left: 421px;
 	margin-top: 303px;
