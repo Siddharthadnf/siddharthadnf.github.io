@@ -1,7 +1,7 @@
 .version.spenden /* version checker */
 {
-	color: #00001C;
-	background-color: #8F08B1;
+	color: #0000F3;
+	background-color: #667EC6;
 }
 
 .html
@@ -12,22 +12,29 @@
 #page
 {
 	z-index: 1;
-	width: 960px;
-	min-height: 927.7713592233008px;
+	width: 903px;
+	min-height: 845.7713592233008px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
 	background-color: transparent;
-	padding-bottom: 0px;
+	padding-top: 20px;
+	padding-right: 57px;
+	padding-bottom: 62.228640776699194px;
 	margin-left: auto;
 	margin-right: auto;
 }
 
-#page_position_content
+#u1931
 {
-	padding-top: 20px;
-	padding-bottom: 62px;
-	width: 0.01px;
+	z-index: 72;
+	width: 944px;
+	height: 260px;
+	background-color: #FFFFFF;
+	position: fixed;
+	top: 0px;
+	left: 50%;
+	margin-left: -481px;
 }
 
 #u1899-4
@@ -41,26 +48,6 @@
 	font-family: Courier New, Courier, monospace;
 	font-style: italic;
 	position: relative;
-}
-
-#pu1931
-{
-	width: 0.01px;
-	padding-bottom: 188px;
-	margin-left: -1px;
-	margin-top: -14px;
-}
-
-#u1931
-{
-	z-index: 72;
-	width: 944px;
-	height: 185px;
-	background-color: #FFFFFF;
-	position: fixed;
-	top: 75px;
-	left: 50%;
-	margin-left: -481px;
 }
 
 #u466
@@ -97,7 +84,7 @@
 {
 	width: 0.01px;
 	margin-left: 74px;
-	margin-top: 87px;
+	margin-top: 261px;
 }
 
 #slideshowu468
