@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000FB;
-	background-color: #BC9AEE;
+	color: #000003;
+	background-color: #18E4A2;
 }
 
 @-ms-viewport
@@ -210,6 +210,58 @@
 	line-height: 36px;
 }
 
+#pu1160-23
+{
+	width: 0.01px;
+	margin-left: 45px;
+	margin-top: 199px;
+}
+
+#u1160-23
+{
+	z-index: 70;
+	width: 316px;
+	min-height: 223px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u1160-2
+{
+	font-size: 9px;
+	line-height: 11px;
+	font-family: Verdana, Tahoma, Geneva, sans-serif;
+	font-weight: bold;
+}
+
+#u1160-3,#u1160-5,#u1160-6,#u1160-8,#u1160-9,#u1160-11
+{
+	font-size: 9px;
+	line-height: 11px;
+	font-family: Verdana, Tahoma, Geneva, sans-serif;
+}
+
+#u1160-12
+{
+	font-size: 13px;
+	line-height: 16px;
+	font-family: Verdana, Tahoma, Geneva, sans-serif;
+}
+
+#u1160-13,#u1160-14,#u1160-15,#u1160-16,#u1160-17,#u1160-18,#u1160-19,#u1160-20
+{
+	font-size: 14px;
+	font-family: Courier New, Courier, monospace;
+}
+
+#u1160-21
+{
+	font-size: 9px;
+	line-height: 11px;
+	font-family: Courier New, Courier, monospace;
+}
+
 #u1161-4
 {
 	z-index: 93;
@@ -222,9 +274,10 @@
 	text-align: center;
 	font-family: Verdana, Tahoma, Geneva, sans-serif;
 	font-style: italic;
-	margin-left: 64px;
-	margin-top: 341px;
 	position: relative;
+	margin-right: -10000px;
+	margin-top: 142px;
+	left: 19px;
 }
 
 #u1162-4
@@ -239,9 +292,10 @@
 	text-align: center;
 	font-family: Verdana, Tahoma, Geneva, sans-serif;
 	font-style: italic;
-	margin-left: 64px;
-	margin-top: 6px;
 	position: relative;
+	margin-right: -10000px;
+	margin-top: 162px;
+	left: 19px;
 }
 
 #pamphletu1130
@@ -250,7 +304,7 @@
 	width: 0.01px;
 	height: 169px;
 	padding-bottom: 181px;
-	margin-top: 109px;
+	margin-top: 45px;
 	position: relative;
 }
 
@@ -764,53 +818,6 @@
 .PamphletWidget .ThumbGroup .Thumb,.PamphletNextButton,.PamphletPrevButton,.PamphletCloseButton /* pamphlet2 */
 {
 	cursor: pointer;
-}
-
-#u1160-23
-{
-	z-index: 70;
-	width: 316px;
-	min-height: 223px;
-	background-color: transparent;
-	margin-left: 45px;
-	top: -635px;
-	margin-bottom: -240px;
-	position: relative;
-}
-
-#u1160-2
-{
-	font-size: 9px;
-	line-height: 11px;
-	font-family: Verdana, Tahoma, Geneva, sans-serif;
-	font-weight: bold;
-}
-
-#u1160-3,#u1160-5,#u1160-6,#u1160-8,#u1160-9,#u1160-11
-{
-	font-size: 9px;
-	line-height: 11px;
-	font-family: Verdana, Tahoma, Geneva, sans-serif;
-}
-
-#u1160-12
-{
-	font-size: 13px;
-	line-height: 16px;
-	font-family: Verdana, Tahoma, Geneva, sans-serif;
-}
-
-#u1160-13,#u1160-14,#u1160-15,#u1160-16,#u1160-17,#u1160-18,#u1160-19,#u1160-20
-{
-	font-size: 14px;
-	font-family: Courier New, Courier, monospace;
-}
-
-#u1160-21
-{
-	font-size: 9px;
-	line-height: 11px;
-	font-family: Courier New, Courier, monospace;
 }
 
 #u1163-4
