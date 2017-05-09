@@ -1,7 +1,7 @@
 .version.werwir /* version checker */
 {
-	color: #0000E7;
-	background-color: #CA3E80;
+	color: #0000F7;
+	background-color: #35EF73;
 }
 
 @-ms-viewport
@@ -230,7 +230,7 @@
 	border-color: transparent;
 	background-color: transparent;
 	margin-left: 61px;
-	margin-top: 32px;
+	margin-top: 52px;
 	position: relative;
 }
 
@@ -284,15 +284,14 @@
 #u1915
 {
 	z-index: 78;
-	min-height: 248.7500000000001px;
+	min-height: 249px;
 	background-color: #FF6757;
-	padding-bottom: 0px;
 }
 
 #u1915_position_content
 {
+	margin-bottom: -12px;
 	padding-top: 28px;
-	padding-bottom: 22px;
 }
 
 #pu1921-4
@@ -322,8 +321,7 @@
 	width: 151px;
 	min-height: 29px;
 	background-color: transparent;
-	font-size: 11px;
-	line-height: 13px;
+	font-size: 14px;
 	font-family: Courier New, Courier, monospace;
 	position: relative;
 	margin-right: -10000px;
@@ -362,15 +360,15 @@
 #u1920-7
 {
 	z-index: 99;
-	width: 211px;
+	width: 248px;
 	min-height: 43px;
 	background-color: transparent;
-	line-height: 18px;
-	font-size: 15px;
+	line-height: 23px;
+	font-size: 19px;
 	font-family: Courier New, Courier, monospace;
 	font-weight: bold;
-	margin-left: 108px;
-	margin-top: 1px;
+	margin-left: 97px;
+	margin-top: 21px;
 	position: relative;
 }
 
@@ -382,7 +380,7 @@
 #u1915-bw
 {
 	z-index: 78;
-	min-height: 248.7500000000001px;
+	min-height: 249px;
 }
 
 #u1923-4
@@ -406,8 +404,8 @@
 	width: 225px;
 	min-height: 20px;
 	background-color: transparent;
-	font-size: 12px;
-	line-height: 14px;
+	font-size: 15px;
+	line-height: 18px;
 	font-family: Courier New, Courier, monospace;
 	position: relative;
 	margin-right: -10000px;
@@ -421,8 +419,8 @@
 	width: 170px;
 	min-height: 17px;
 	background-color: transparent;
-	font-size: 12px;
-	line-height: 14px;
+	font-size: 15px;
+	line-height: 18px;
 	font-family: Courier New, Courier, monospace;
 	position: relative;
 	margin-right: -10000px;
@@ -436,8 +434,8 @@
 	width: 195px;
 	min-height: 31px;
 	background-color: transparent;
-	font-size: 10px;
-	line-height: 12px;
+	font-size: 13px;
+	line-height: 16px;
 	font-family: Courier New, Courier, monospace;
 	position: relative;
 	margin-right: -10000px;
@@ -451,8 +449,8 @@
 	width: 151px;
 	min-height: 45px;
 	background-color: transparent;
-	font-size: 12px;
-	line-height: 14px;
+	font-size: 15px;
+	line-height: 18px;
 	font-family: Courier New, Courier, monospace;
 	position: relative;
 	margin-right: -10000px;
@@ -464,7 +462,7 @@
 {
 	width: 0.01px;
 	margin-left: 21px;
-	margin-top: 54px;
+	margin-top: 104px;
 }
 
 #u1277-13
@@ -584,7 +582,7 @@
 	font-size: 11px;
 	font-family: Verdana, Tahoma, Geneva, sans-serif;
 	margin-left: 163px;
-	margin-top: 171px;
+	margin-top: 101px;
 	position: relative;
 }
 
