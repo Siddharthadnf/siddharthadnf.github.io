@@ -1,11 +1,11 @@
-<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="siddhartha-dnf.de" resolutions="1x" timestamp="1494313387940">
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="siddhartha-dnf.de" resolutions="1x" timestamp="1494313559439">
   <folder name="phone">
     <folder name="css">
       <file name="impressum1.css" crc="4072302732" ref="phone>impressum1"/>
       <file name="jugend.css" crc="4107295331" ref="phone>jugend"/>
       <file name="werwir.css" crc="4147507059" ref="phone>werwir"/>
       <file name="bildung.css" crc="4107295331" ref="phone>bildung"/>
-      <file name="index.css" crc="4283791788" ref="phone>index"/>
+      <file name="index.css" crc="3853140342" ref="phone>index"/>
       <file name="wiederaufbau.css" crc="4107295331" ref="phone>wiederaufbau"/>
       <file name="kultur.css" crc="4107295331" ref="phone>kultur"/>
       <file name="sport.css" crc="4107295331" ref="phone>sport"/>
@@ -18,7 +18,7 @@
       <file name="tradition.css" crc="4107295331" ref="phone>tradition"/>
       <file name="impressum2.css" crc="3827304702" ref="phone>impressum2"/>
     </folder>
-    <file name="index.html" crc="405412267" seo="true" mt="1494313383696" redirect="true"/>
+    <file name="index.html" crc="215287385" seo="true" mt="1494313546264" redirect="true"/>
     <file name="impressum1.html" crc="4001457516" seo="true" mt="1494242943303" redirect="true"/>
     <file name="impressum2.html" crc="115047588" seo="true" mt="1494242961122" redirect="true"/>
     <file name="aktuelles.html" crc="394842607" seo="true" mt="1494312386260" redirect="true"/>
@@ -70,7 +70,7 @@
     <file name="touchswipe.js" crc="4038331989" ref="werwir:spenden:jugend:bildung:sport:tradition:kultur:austausch:direkthilfe:wiederaufbau:phone>index:kontakt:phone>kontakt:index-kopie"/>
     <file name="jquery.watch.js" crc="71412426" ref="index:kontakt:werwir:spenden:jugend:bildung:sport:tradition:kultur:austausch:direkthilfe:wiederaufbau:impressum:impressum1:impressum2:aktuelles:phone>index:phone>impressum1:phone>impressum2:phone>aktuelles:phone>kontakt:phone>impressum:phone>werwir:phone>spenden:phone>jugend:phone>bildung:phone>sport:phone>tradition:phone>kultur:phone>austausch:phone>direkthilfe:phone>wiederaufbau:index-kopie"/>
     <file name="museredirect.js" crc="40941066" ref="index:kontakt:werwir:aktuelles:impressum:impressum1:impressum2"/>
-    <file name="jquery.scrolleffects.js" crc="3860644955" ref="index-kopie:phone>index"/>
+    <file name="jquery.scrolleffects.js" crc="3860644955" ref="index-kopie"/>
   </folder>
   <folder name="images">
     <file name="sid_schräg-u75-fr.jpg" crc="497952610" ref="spenden:jugend:bildung:sport:tradition:kultur:austausch:direkthilfe:wiederaufbau"/>
